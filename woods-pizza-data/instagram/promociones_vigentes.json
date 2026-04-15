@@ -1,0 +1,85 @@
+{
+  "scraped_at": "2026-04-15T22:50:00Z",
+  "source": "https://www.instagram.com/woodscr/",
+  "profile": {
+    "username": "woodscr",
+    "name": "Woods Pizza a la Leña",
+    "followers": 43200,
+    "posts_count": 630,
+    "locations": ["Cartago", "Villa Verde", "Pinares"],
+    "contact": {
+      "phone": "8626-8988",
+      "purpose": "Reservaciones / Entradas"
+    }
+  },
+  "horarios": {
+    "lunes": "Cerrado",
+    "martes_a_jueves": "4:00 PM - 10:00 PM",
+    "viernes_y_sabado": "12:00 MD - 11:00 PM",
+    "domingo": "12:00 MD - 9:00 PM",
+    "notas": "Ubicaciones: Cartago • Villa Verde • Pinares"
+  },
+  "promociones_activas": [
+    {
+      "tipo": "evento_musical",
+      "nombre": "Passiflora en Concierto",
+      "fecha": "Domingo 19 de Abril",
+      "hora": "5:30 PM",
+      "lugar": "Woods Villa Verde",
+      "artista_principal": "Passiflora",
+      "artista_invitado": "Gabriel Loynaz",
+      "precios": {
+        "preventa": 7000,
+        "en_puerta": 8000,
+        "moneda": "CRC"
+      },
+      "contacto_reservaciones": "8626-8988"
+    },
+    {
+      "tipo": "sorteo",
+      "nombre": "Sorteo Woods Culture",
+      "ganador": "@johelm",
+      "premios": [
+        "IGLOO Cooler 62qt (9L) - mantiene hielo 5 días",
+        "Gorra Woods Culture (navy blue)",
+        "Estadía en Casa Aribá (propiedad con piscina, billar, áreas de descanso)"
+      ],
+      "estado": "Finalizado - Ganador anunciado"
+    }
+  ],
+  "avisos_especiales": [
+    {
+      "tipo": "cierre_temporal",
+      "nombre": "Cerrado Semana Santa",
+      "fechas": "Lunes 30 a Viernes 03",
+      "descripcion": "CERRADO en Semana Santa - De lunes 30 a viernes 03"
+    },
+    {
+      "tipo": "celebracion",
+      "nombre": "Día Mundial del Arte",
+      "fecha": "15 de abril",
+      "mensaje": "El arte nos mueve"
+    }
+  ],
+  "imagenes_descargadas": [
+    {"file": "embed_2_20260415_224652.jpg", "descripcion": "Evento Passiflora - Concierto con precios", "size_kb": 113},
+    {"file": "embed_3_20260415_224652.jpg", "descripcion": "Horarios de Woods Pizza - 3 ubicaciones", "size_kb": 201},
+    {"file": "embed_4_20260415_224652.jpg", "descripcion": "Ganador del sorteo @johelm", "size_kb": 132},
+    {"file": "embed_5_20260415_224652.jpg", "descripcion": "Cerrado Semana Santa", "size_kb": 183},
+    {"file": "embed_7_20260415_224652.jpg", "descripcion": "Día Mundial del Arte", "size_kb": 163}
+  ],
+  "instrucciones_para_flavia": {
+    "actualizar_diariamente": true,
+    "borrar_datos_mayores_a_15_dias": true,
+    "promociones_incluir": [
+      "Eventos musicales y conciertos",
+      "Precios especiales (preventa vs puerta)",
+      "Sorteos activos",
+      "Horarios y ubicaciones",
+      "Cierres temporales",
+      "Celebraciones especiales"
+    ],
+    "formato_respuesta": "Flavia debe ofrecer las promociones vigentes cuando los clientes pregunten por ofertas, horarios, o eventos.",
+    "contacto_verificacion": "8626-8988 para confirmar promociones"
+  }
+}
