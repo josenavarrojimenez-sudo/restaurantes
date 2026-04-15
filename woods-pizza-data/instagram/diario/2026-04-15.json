@@ -1,19 +1,20 @@
 {
-  "_nota": "Este archivo se actualiza diariamente con el scraping de Instagram. Flavia debe leer este archivo para conocer las promociones vigentes.",
-  "_ultima_actualizacion": "2026-04-15T23:10:00Z",
+  "_nota": "Este archivo se actualiza diariamente. Flavia debe leer este archivo para conocer las promociones VIGENTES. Solo se incluyen cosas vigentes o futuras, NO cosas que ya pasaron.",
+  "_ultima_actualizacion": "2026-04-15T23:15:00Z",
   "_proxima_actualizacion": "2026-04-16T08:00:00Z",
   "_fuente": "https://www.instagram.com/woodscr/",
   "_agente_scraping": "Prolix",
   "_agente_consumo": "Flavia",
+  "_regla": "SOLO incluir promociones, ofertas y actividades VIGENTES o que van a suceder. NO incluir lo que ya pasó.",
 
   "restaurante": {
     "nombre": "Woods Pizza a la Leña",
     "instagram": "@woodscr",
     "marcas": ["Woods Pizza a la Leña", "Woods Pizza & Beer Garden", "Woods Culture"],
     "ubicaciones": [
-      {"nombre": "Cartago", "direccion": "Cartago"},
-      {"nombre": "Villa Verde", "direccion": "Villa Verde"},
-      {"nombre": "Pinares", "direccion": "Pinares"}
+      {"nombre": "Cartago"},
+      {"nombre": "Villa Verde"},
+      {"nombre": "Pinares"}
     ],
     "contacto": {
       "telefono": "8626-3988",
@@ -36,20 +37,20 @@
       "id": "promo_001",
       "tipo": "evento_musical",
       "nombre": "Concierto Passiflora",
-      "fecha_inicio": "2026-04-19",
-      "fecha_fin": "2026-04-19",
+      "fecha": "2026-04-19",
       "dia_semana": "Domingo",
       "hora": "5:30 PM",
       "lugar": "Woods Villa Verde",
-      "descripcion_corta": "Concierto de Passiflora con artista invitado Gabriel Loynaz",
-      "descripcion_larga": "Passiflora en concierto en Woods Villa Verde. Domingo 19 de abril a las 5:30 PM. Artista invitado: Gabriel Loynaz.",
+      "artista_principal": "Passiflora",
+      "artista_invitado": "Gabriel Loynaz",
       "precios": [
-        {"tipo": "Preventa", "monto": 7000, "moneda": "CRC", "descripcion": "Entrada anticipada"},
-        {"tipo": "En puerta", "monto": 8000, "moneda": "CRC", "descripcion": "Entrada el día del evento"}
+        {"tipo": "Preventa", "monto": 7000, "moneda": "CRC"},
+        {"tipo": "En puerta", "monto": 8000, "moneda": "CRC"}
       ],
       "telefono_reservaciones": "8626-3988",
       "estado": "VIGENTE",
-      "imagen": "profile_3_20260415_230125.jpg"
+      "imagen": "profile_3_20260415_230125.jpg",
+      "descripcion_para_flavia": "¡Este domingo 19 de abril tenemos concierto de Passiflora en Woods Villa Verde a las 5:30 PM! Con artista invitado Gabriel Loynaz. Preventa a ₡7,000 y en puerta ₡8,000. Llamá al 8626-3988 para reservar."
     },
     {
       "id": "promo_002",
@@ -57,59 +58,38 @@
       "nombre": "Cerrado Semana Santa",
       "fecha_inicio": "2026-04-28",
       "fecha_fin": "2026-05-03",
-      "descripcion_corta": "Cerrados del lunes 28 de abril al viernes 3 de mayo por Semana Santa",
-      "descripcion_larga": "ESTAREMOS CERRADOS del lunes 28 de abril al viernes 3 de mayo por Semana Santa. Reabrimos el sábado 4 de mayo con horario normal.",
+      "descripcion_corta": "Cerrados del lunes 28 de abril al viernes 3 de mayo",
+      "descripcion_larga": "Estaremos CERRADOS del lunes 28 de abril al viernes 3 de mayo por Semana Santa. Reabrimos el sábado 4 de mayo.",
       "estado": "PROXIMO",
-      "imagen": "profile_5_20260415_230125.jpg"
-    }
-  ],
-
-  "promociones_pasadas": [
-    {
-      "id": "promo_003",
-      "tipo": "sorteo",
-      "nombre": "Sorteo de Verano Woods Culture",
-      "descripcion_corta": "Sorteo con prizes IGLOO Cooler, gorra Woods Culture y estadía en Casa Aribá",
-      "descripcion_larga": "¡FELICIDADES! El ganador del sorteo fue @johelm. Premios incluyeron: IGLOO Cooler 62qt (9L), Gorra Woods Culture navy blue, y estadía en Casa Aribá.",
-      "ganador": "@johelm",
-      "estado": "FINALIZADO",
-      "imagen": "profile_5_20260415_230125.jpg"
-    },
-    {
-      "id": "promo_004",
-      "tipo": "celebracion",
-      "nombre": "Día Mundial del Arte",
-      "fecha": "2026-04-15",
-      "descripcion_corta": "El arte nos mueve - Celebración del Día Mundial del Arte",
-      "estado": "PASADO",
-      "imagen": "profile_2_20260415_230125.jpg"
+      "imagen": "profile_5_20260415_230125.jpg",
+      "descripcion_para_flavia": "¡Ojo! Vamos a estar cerrados del lunes 28 de abril al viernes 3 de mayo por Semana Santa. Pero reabrimos el sábado 4 de mayo con todo."
     }
   ],
 
   "menu_destacado": {
-    "_nota": "Información extraída de los posts de Instagram. Actualizar cuando haya más datos del menú.",
+    "_nota": "Información extraída de Instagram. Actualizar cuando haya más datos del menú.",
     "pizza_destacada": {
       "nombre": "Pizza Gambas",
-      "descripcion": "Pizza con camarones y hierbas",
+      "descripcion": "Pizza con camarones",
       "mencion_en_alt_text": "Si querés probar algo diferente… Nuestra Pizza Gambas"
     }
   },
 
   "guia_flavia": {
-    "instrucciones_generales": [
-      "Lee este archivo CADA DÍA antes de atender clientes para conocer las promociones vigentes.",
-      "Si un cliente pregunta por eventos, menciona el concierto de Passiflora del domingo 19 de abril.",
-      "Si un cliente pregunta por horarios, da los horarios completos de las 3 ubicaciones.",
-      "Si un cliente pregunta por precios de entradas al evento, ofrece preventa ₡7,000 y puerta ₡8,000.",
-      "AVISA a los clientes que estaremos CERRADOS del 28 de abril al 3 de mayo por Semana Santa.",
-      "Para reservaciones de eventos o entradas, da el teléfono 8626-3988."
+    "instrucciones": [
+      "Leé este archivo CADA DÍA antes de atender clientes.",
+      "Solo ofrecé información VIGENTE. No menciones eventos o promociones que ya pasaron.",
+      "Si preguntan por el evento de Passiflora, decí que es este domingo 19 de abril.",
+      "Si preguntan por horarios, da los de las 3 ubicaciones.",
+      "AVISÁ que cerramos Semana Santa del 28 de abril al 3 de mayo.",
+      "Para reservaciones o entradas, el teléfono es 8626-3988."
     ],
     "respuestas_sugeridas": {
-      "evento_pasiflora": "¡Tenemos un concierto increí este domingo 19 de abril! Passiflora en vivo en Woods Villa Verde a las 5:30 PM, con artista invitado Gabriel Loynaz. La preventa está a ₡7,000 y en puerta a ₡8,000. ¡Podés llamar al 8626-3988 para reservar tus entradas!",
-      "horarios": "Nuestros horarios son: martes a jueves de 4 PM a 10 PM, viernes y sábado de 12 MD a 11 PM, y domingo de 12 MD a 9 PM. Estamos en Cartago, Villa Verde y Pinares. ¡Los lunes estamos cerrados!",
-      "semana_santa": "¡Ojo! Estaremos cerrados del lunes 28 de abril al viernes 3 de mayo por Semana Santa. ¡Pero volvemos el sábado 4 con todo!",
-      "sorteo": "El sorteo de verano ya terminó, ¡el ganador fue @johelm! Pero estate atento a nuestras redes porque siempre tenemos algo especial.",
-      "pizza_gambas": "¡Si querés probar algo diferente, te recomendamos nuestra Pizza Gambas! Es una delicia con camarones frescos."
+      "evento_pasiflora": "¡Este domingo 19 de abril tenemos concierto de Passiflora en Woods Villa Verde a las 5:30 PM! Con Gabriel Loynaz como artista invitado. Preventa a ₡7,000 y en puerta ₡8,000. Llamá al 8626-3988 para entradas.",
+      "horarios": "Nuestros horarios son: martes a jueves de 4 PM a 10 PM, viernes y sábado de 12 MD a 11 PM, y domingo de 12 MD a 9 PM. Estamos en Cartago, Villa Verde y Pinares. ¡Los lunes cerrados!",
+      "semana_santa": "¡Ojo! Vamos a estar cerrados del lunes 28 de abril al viernes 3 de mayo por Semana Santa. ¡Reabrimos el sábado 4 de mayo!",
+      "pizza_gambas": "¡Si querés probar algo diferente, te recomendamos nuestra Pizza Gambas! Es una pizza deliciosa con camarones frescos.",
+      "promociones_pasadas": "No tengo información de promociones pasadas. ¿Te puedo ayudar con algo vigente? Tenemos el concierto de Passiflora este domingo y nuestros horarios habituales."
     }
   }
 }
