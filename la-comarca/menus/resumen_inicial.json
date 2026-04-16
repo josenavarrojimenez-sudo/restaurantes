@@ -1,0 +1,18 @@
+{
+  "titulo": "Menú - La Comarca Cartago",
+  "total_precios": 325,
+  "total_imagenes": 11,
+  "urls_imagenes": [
+    "https://lacomarca.caroje.com/static/images/lacomarca.png",
+    "https://lacomarca.caroje.com/static/images/caprichos.jpeg",
+    "https://lacomarca.caroje.com/static/images/parilla.jpeg",
+    "https://lacomarca.caroje.com/static/images/burger.jpeg",
+    "https://lacomarca.caroje.com/static/images/ensalada.jpeg",
+    "https://lacomarca.caroje.com/static/images/ninos.jpeg",
+    "https://lacomarca.caroje.com/static/images/sides.jpeg",
+    "https://lacomarca.caroje.com/static/images/postre.jpeg",
+    "https://lacomarca.caroje.com/static/images/refresco.jpeg",
+    "https://lacomarca.caroje.com/static/images/bar.jpeg"
+  ],
+  "total_tarjetas": 845
+}

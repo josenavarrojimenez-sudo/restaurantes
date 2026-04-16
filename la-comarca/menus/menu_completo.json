@@ -1,0 +1,696 @@
+{
+  "restaurante": "La Comarca",
+  "ubicacion": "Cartago",
+  "fecha_escaneo": "2026-04-16",
+  "categorias": [
+    {
+      "nombre": "CAPRICHOS DE GANDALF",
+      "imagen": "https://lacomarca.caroje.com/static/images/caprichos.jpeg"
+    },
+    {
+      "nombre": "LA PARRILLA DE TRANCOS",
+      "imagen": "https://lacomarca.caroje.com/static/images/parilla.jpeg"
+    },
+    {
+      "nombre": "LUNCHEONNUESTRAS FAMOSAS BURGERS",
+      "imagen": "https://lacomarca.caroje.com/static/images/burger.jpeg"
+    },
+    {
+      "nombre": "Boquería",
+      "imagen": ""
+    },
+    {
+      "nombre": "CASADITOS LA COMARCA",
+      "imagen": ""
+    },
+    {
+      "nombre": "ENSALADAS",
+      "imagen": "https://lacomarca.caroje.com/static/images/ensalada.jpeg"
+    },
+    {
+      "nombre": "MENU PARA NIÑOS",
+      "imagen": "https://lacomarca.caroje.com/static/images/ninos.jpeg"
+    },
+    {
+      "nombre": "SIDES",
+      "imagen": "https://lacomarca.caroje.com/static/images/sides.jpeg"
+    },
+    {
+      "nombre": "FESTIN DE THE PRACING PONYPOSTRES",
+      "imagen": "https://lacomarca.caroje.com/static/images/postre.jpeg"
+    },
+    {
+      "nombre": "REFRESCOS",
+      "imagen": "https://lacomarca.caroje.com/static/images/refresco.jpeg"
+    },
+    {
+      "nombre": "BAR HOBBITON",
+      "imagen": "https://lacomarca.caroje.com/static/images/bar.jpeg"
+    },
+    {
+      "nombre": "LA CAVA DE  BILBO Y COCTELERIA",
+      "imagen": ""
+    },
+    {
+      "nombre": "NUESTRO CAFE",
+      "imagen": "https://lacomarca.caroje.com/static/images/cafe.jpeg"
+    },
+    {
+      "nombre": "Otras Bebidas Calientes",
+      "imagen": ""
+    }
+  ],
+  "total_productos": 105,
+  "productos": [
+    {
+      "nombre": "QUESADILLA  DE POLLO",
+      "descripcion": "Exquisita fusión de queso mozzarella con pollo en salsa bechamel,  acompañadas de papas gajo, guacamole y pico de gallo",
+      "precio": "₡6900",
+      "categoria": "CAPRICHOS DE GANDALF"
+    },
+    {
+      "nombre": "QUESADILLA DE CAMARONES",
+      "descripcion": "Exquisita fusión de queso mozzarella con camarones al ajillo acompañadas de papas gajo, guacamole y pico de gallo",
+      "precio": "₡7000",
+      "categoria": "CAPRICHOS DE GANDALF"
+    },
+    {
+      "nombre": "QUESADILLA DE LOMITO",
+      "descripcion": "Exquisita fusión de queso mozzarella con lomito,  acompañadas de papas gajo, guacamole y pico de gallo",
+      "precio": "₡7100",
+      "categoria": "CAPRICHOS DE GANDALF"
+    },
+    {
+      "nombre": "QUESADILLA VEGETARIANA",
+      "descripcion": "Exquisita fusion de queso mozarella con albahaca, hongos salteados,  tomate cherry y cebolla morada, acompañada de papas gajo",
+      "precio": "₡6600",
+      "categoria": "CAPRICHOS DE GANDALF"
+    },
+    {
+      "nombre": "TACOS DE CAMARÓN EMPANIZADO",
+      "descripcion": "Ensalada de cole, tomate cherry, aguacate y aderezo de culantro, acompañados de papas gajo",
+      "precio": "₡6300",
+      "categoria": "CAPRICHOS DE GANDALF"
+    },
+    {
+      "nombre": "TACOS DE LOMITO",
+      "descripcion": "Lechuga, tomates cherry, cebolla caramelizada y salsa mexicana, acompañados de papas gajo",
+      "precio": "₡6500",
+      "categoria": "CAPRICHOS DE GANDALF"
+    },
+    {
+      "nombre": "COSTILLA MEDIEVAL BABY",
+      "descripcion": "Expectacular costilla de cerdo a la parrilla, bañada en salsa barbacoa, acompañada de una deliciosa papa asada y ensalada de cole",
+      "precio": "₡9800",
+      "categoria": "LA PARRILLA DE TRANCOS"
+    },
+    {
+      "nombre": "COSTILLA MEDIEVAL FULL",
+      "descripcion": "Expectacular costilla de cerdo a la parrilla, bañada en salsa barbacoa, acompañada de una deliciosa papa asada y ensalada de cole",
+      "precio": "₡13800",
+      "categoria": "LA PARRILLA DE TRANCOS"
+    },
+    {
+      "nombre": "ENTRAÑA DE MORDOR",
+      "descripcion": "300 gr de este delicioso corte a la parrilla con un toque de chimichurri acomacompañado de vegetales y escabeche de banano",
+      "precio": "₡14500",
+      "categoria": "LA PARRILLA DE TRANCOS"
+    },
+    {
+      "nombre": "LOMITO DE SAURON",
+      "descripcion": "Corte de lomito a la parrilla con un toque de chimichurri, acompañado de papa asada y ensalada verde",
+      "precio": "₡12100",
+      "categoria": "LA PARRILLA DE TRANCOS"
+    },
+    {
+      "nombre": "Lomito Mar y Tierra",
+      "descripcion": "Delicioso lomito con camarones jumbo, papas la francesa y ensalada verde",
+      "precio": "₡13900",
+      "categoria": "LA PARRILLA DE TRANCOS"
+    },
+    {
+      "nombre": "TABLÓN DE ROHAN",
+      "descripcion": "Para 2 personas. Entraña, Costilla, Pollo, Aros de cebolla, Papas al romero, Plátano Maduro, Breadsticks, Escabeche y Ensald",
+      "precio": "₡27500",
+      "categoria": "LA PARRILLA DE TRANCOS"
+    },
+    {
+      "nombre": "Tablón de Gondor.",
+      "descripcion": "Para 2 personas. Lomito, Costilla, Pollo, Aros de cebolla, Papas al romero, Plátano maduro, Breadsticks,  Escabeche y Ensalada.",
+      "precio": "₡25000",
+      "categoria": "LA PARRILLA DE TRANCOS"
+    },
+    {
+      "nombre": "BEORN BURGER",
+      "descripcion": "Clasica double chesse burger en pan artesanal  con deliciosa salsa a base de cebolla",
+      "precio": "₡6400",
+      "categoria": "LUNCHEONNUESTRAS FAMOSAS BURGERS"
+    },
+    {
+      "nombre": "CALIFORNIA",
+      "descripcion": "La combinación perfecta con guacamole, queso mozzarella, hongos, cebolla, albahaca y tomate con nuestra deliciosa torta",
+      "precio": "₡6900",
+      "categoria": "LUNCHEONNUESTRAS FAMOSAS BURGERS"
+    },
+    {
+      "nombre": "EL HOBBIT",
+      "descripcion": "Torta rellena de mozzarella, piña asada,aros de cebolla salsa BBQ  pan artesanal",
+      "precio": "₡8000",
+      "categoria": "LUNCHEONNUESTRAS FAMOSAS BURGERS"
+    },
+    {
+      "nombre": "LA COMARCA",
+      "descripcion": "Deliciosa torta angus con nuestro pan artesanal, aro de cebolla, tocineta, hongos salteados y aderezo chipotle",
+      "precio": "₡7500",
+      "categoria": "LUNCHEONNUESTRAS FAMOSAS BURGERS"
+    },
+    {
+      "nombre": "LEGOLAS",
+      "descripcion": "Combinación de queso mozarella y feta, arùgula, bacon tostado y chimichurri argentino",
+      "precio": "₡7800",
+      "categoria": "LUNCHEONNUESTRAS FAMOSAS BURGERS"
+    },
+    {
+      "nombre": "CANASTITAS DE PATACONES",
+      "descripcion": "Rellenas de frijolitos, lomito salteado, pico de gallo y mayo culantro",
+      "precio": "₡4800",
+      "categoria": "Boquería"
+    },
+    {
+      "nombre": "CAZUELA DE QUESO FUNDIDO",
+      "descripcion": "Con lomito salteado y tortillas",
+      "precio": "₡5500",
+      "categoria": "Boquería"
+    },
+    {
+      "nombre": "CHIFRIJO",
+      "descripcion": "Nuestro secreto: frijolitos tiernos y chicharrón en su punto. Acompañado de patacones",
+      "precio": "₡4800",
+      "categoria": "Boquería"
+    },
+    {
+      "nombre": "DEDOS DE QUESO",
+      "descripcion": "Acompañados de aderezo a base de maracuyá",
+      "precio": "₡4500",
+      "categoria": "Boquería"
+    },
+    {
+      "nombre": "CASADO MERRY",
+      "descripcion": "Arroz, frijoles,ensalada verde, verduras al vapor, platano maduro y fajitas de lomito a la plancha",
+      "precio": "₡6000",
+      "categoria": "CASADITOS LA COMARCA"
+    },
+    {
+      "nombre": "CASADO PIPPIN",
+      "descripcion": "Arroz, frijoles,ensalada verde, verduras al vapor, platano maduro y costilla de cerdo a la bbq",
+      "precio": "₡6000",
+      "categoria": "CASADITOS LA COMARCA"
+    },
+    {
+      "nombre": "CASADO SAM",
+      "descripcion": "Arroz, frijoles,ensalada verde, verduras al vapor, platano maduro y fajitas de pollo a la plancha",
+      "precio": "₡6000",
+      "categoria": "CASADITOS LA COMARCA"
+    },
+    {
+      "nombre": "CASADO SAM Y MERRY",
+      "descripcion": "Arroz, frijoles,ensalada verde, verduras al vapor, platano maduro y fajitas mixtas de pollo y lomito a la plancha",
+      "precio": "₡6000",
+      "categoria": "CASADITOS LA COMARCA"
+    },
+    {
+      "nombre": "ELFO CON POLLO",
+      "descripcion": "lechuga, tomate cherry, queso parmesano ,cebolla morada,aceitunas, pepinillo, garbanzos  manzana con pollo a la plancha",
+      "precio": "₡6800",
+      "categoria": "ENSALADAS"
+    },
+    {
+      "nombre": "ELFO VEGETARIANA",
+      "descripcion": "lechuga, tomate cherry, queso mozzarella ,cebolla morada,aceitunas, pepinillo, garbanzos y manzana en trocitos",
+      "precio": "₡5500",
+      "categoria": "ENSALADAS"
+    },
+    {
+      "nombre": "CHEESEBURGER",
+      "descripcion": "Acompañada de papas fritas",
+      "precio": "₡5300",
+      "categoria": "MENU PARA NIÑOS"
+    },
+    {
+      "nombre": "NUGGETS DE POLLO",
+      "descripcion": "Nuggets de pollo acompañados de papas fritas",
+      "precio": "₡5000",
+      "categoria": "MENU PARA NIÑOS"
+    },
+    {
+      "nombre": "AROS DE CEBOLLA",
+      "descripcion": "",
+      "precio": "₡3000",
+      "categoria": "SIDES"
+    },
+    {
+      "nombre": "BREADSTICKS",
+      "descripcion": "",
+      "precio": "₡3500",
+      "categoria": "SIDES"
+    },
+    {
+      "nombre": "LEMBAS (PAN ELFO)",
+      "descripcion": "Pan elfo preparado al horno con la receta mágica para dar poder y energía",
+      "precio": "₡1400",
+      "categoria": "SIDES"
+    },
+    {
+      "nombre": "PAPA ASADA",
+      "descripcion": "Deliciosa papa asada al horno con aderezo especial de la casa",
+      "precio": "₡2500",
+      "categoria": "SIDES"
+    },
+    {
+      "nombre": "PAPAS GAJO",
+      "descripcion": "",
+      "precio": "₡2300",
+      "categoria": "SIDES"
+    },
+    {
+      "nombre": "PLATANO MADURO CON QUESO",
+      "descripcion": "Con almibar de canela",
+      "precio": "₡2900",
+      "categoria": "SIDES"
+    },
+    {
+      "nombre": "TORTILLA DE QUESO DULCE",
+      "descripcion": "Tortilla de harina de maíz aliñada con queso  especialmente aderezada con dulce acompañada de natilla",
+      "precio": "₡3000",
+      "categoria": "SIDES"
+    },
+    {
+      "nombre": "TORTILLA DE QUESO SALADA",
+      "descripcion": "Tortilla de harina de maiz aliñada con queso acompañada de natilla",
+      "precio": "₡3000",
+      "categoria": "SIDES"
+    },
+    {
+      "nombre": "BROWNIE CON HELADO",
+      "descripcion": "",
+      "precio": "₡3900",
+      "categoria": "FESTIN DE THE PRACING PONYPOSTRES"
+    },
+    {
+      "nombre": "CHEESECAKE DE FRUTOS ROJOS",
+      "descripcion": "",
+      "precio": "₡3900",
+      "categoria": "FESTIN DE THE PRACING PONYPOSTRES"
+    },
+    {
+      "nombre": "CHEESECAKE FRESA",
+      "descripcion": "",
+      "precio": "₡2500",
+      "categoria": "FESTIN DE THE PRACING PONYPOSTRES"
+    },
+    {
+      "nombre": "CHURCHIL",
+      "descripcion": "",
+      "precio": "₡3000",
+      "categoria": "FESTIN DE THE PRACING PONYPOSTRES"
+    },
+    {
+      "nombre": "COPA DE HELADO",
+      "descripcion": "",
+      "precio": "₡2700",
+      "categoria": "FESTIN DE THE PRACING PONYPOSTRES"
+    },
+    {
+      "nombre": "BATIDOS EN LECHE",
+      "descripcion": "Frutas de temporada",
+      "precio": "₡3000",
+      "categoria": "REFRESCOS"
+    },
+    {
+      "nombre": "GASEOSA",
+      "descripcion": "",
+      "precio": "₡1700",
+      "categoria": "REFRESCOS"
+    },
+    {
+      "nombre": "REFRESCOS NATURALES EN AGUA",
+      "descripcion": "Limonada, Limonada con hierba buena, Cas, Guanabana, Té Frío de la Casa, Fresa",
+      "precio": "₡2000",
+      "categoria": "REFRESCOS"
+    },
+    {
+      "nombre": "BAVARIA",
+      "descripcion": "",
+      "precio": "₡2000",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "BAVARIA LIGHT",
+      "descripcion": "",
+      "precio": "₡2000",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "CAMPARI",
+      "descripcion": "SHOT",
+      "precio": "₡2800",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "CERVEZA CALIFORNIA",
+      "descripcion": "",
+      "precio": "₡2000",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "CERVEZA CALIN",
+      "descripcion": "LAGER 5.5%",
+      "precio": "₡1800",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "CERVEZA COMPLOT",
+      "descripcion": "IPA FRUTA 6.6%",
+      "precio": "₡2500",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "CERVEZA IMPAR",
+      "descripcion": "PALE ALE 5.4%",
+      "precio": "₡1800",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "CERVEZA INEDIT",
+      "descripcion": "MALT Y TRIGO 4.8%",
+      "precio": "₡2500",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "CERVEZA MI NEGRITA",
+      "descripcion": "STOUT CHOCOLATE Y CAFE 6.3%",
+      "precio": "₡2000",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "CERVEZA MOOSEHEAD LAGER",
+      "descripcion": "",
+      "precio": "₡2000",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "ESTRELLA",
+      "descripcion": "",
+      "precio": "₡2500",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "HEINEKEN",
+      "descripcion": "",
+      "precio": "₡2200",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "IMPERIAL",
+      "descripcion": "",
+      "precio": "₡1500",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "IMPERIAL LIGHT",
+      "descripcion": "",
+      "precio": "₡1500",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "IMPERIAL SILVER",
+      "descripcion": "",
+      "precio": "₡1500",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "IMPERIAL ULTRA",
+      "descripcion": "",
+      "precio": "₡1500",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "JAGERMEISTER",
+      "descripcion": "SHOT",
+      "precio": "₡3500",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "JHONNIE WALKER BLUE",
+      "descripcion": "SHOT",
+      "precio": "₡15000",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "PILSEN",
+      "descripcion": "",
+      "precio": "₡1500",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "RON BACARDI OSCURO",
+      "descripcion": "SHOT",
+      "precio": "₡2200",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "RON CENTENARIO 20 AÑOS",
+      "descripcion": "SHOT",
+      "precio": "₡5200",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "RON FLOR DE CAÑA 10 AÑOS",
+      "descripcion": "SHOT",
+      "precio": "₡3800",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "SHOT BAILEYS",
+      "descripcion": "SHOT",
+      "precio": "₡2800",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "TEQUILA  DON JULIO REPOSADO",
+      "descripcion": "SHOT",
+      "precio": "₡4200",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "TEQUILA 1800 AÑEJO",
+      "descripcion": "SHOT",
+      "precio": "₡5000",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "TEQUILA 1800 REPOSADO",
+      "descripcion": "SHOT",
+      "precio": "₡2500",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "TEQUILA JARANA",
+      "descripcion": "SHOT",
+      "precio": "₡2300",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "WHISKY  JAMENSON",
+      "descripcion": "SHOT",
+      "precio": "₡3800",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "WHISKY BUCHANANS 12 AÑOS",
+      "descripcion": "SHOT",
+      "precio": "₡5000",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "WHISKY CHIVAS 12 AÑOS",
+      "descripcion": "SHOT",
+      "precio": "₡4800",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "WHISKY JHONNY NEGRO",
+      "descripcion": "SHOT",
+      "precio": "₡4200",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "WHISKY OLD PAR 12 AÑOS",
+      "descripcion": "SHOT",
+      "precio": "₡5000",
+      "categoria": "BAR HOBBITON"
+    },
+    {
+      "nombre": "Aperol Spritz",
+      "descripcion": "",
+      "precio": "₡4500",
+      "categoria": "LA CAVA DE  BILBO Y COCTELERIA"
+    },
+    {
+      "nombre": "BOTELLA GLUHWEIN",
+      "descripcion": "Bebida milenaria Alemana  para combatir los fríos inviernos",
+      "precio": "₡15000",
+      "categoria": "LA CAVA DE  BILBO Y COCTELERIA"
+    },
+    {
+      "nombre": "BOTELLA VINO BLANCO",
+      "descripcion": "BOTELLA    CONSULTAR PRECIO",
+      "precio": "Sin precio",
+      "categoria": "LA CAVA DE  BILBO Y COCTELERIA"
+    },
+    {
+      "nombre": "BOTELLA VINO TINTO",
+      "descripcion": "BOTELLA     CONSULTAR PRECIO",
+      "precio": "Sin precio",
+      "categoria": "LA CAVA DE  BILBO Y COCTELERIA"
+    },
+    {
+      "nombre": "COPA VINO BLANCO",
+      "descripcion": "COPA",
+      "precio": "₡3500",
+      "categoria": "LA CAVA DE  BILBO Y COCTELERIA"
+    },
+    {
+      "nombre": "COPA VINO TINTO",
+      "descripcion": "COPA",
+      "precio": "₡3500",
+      "categoria": "LA CAVA DE  BILBO Y COCTELERIA"
+    },
+    {
+      "nombre": "Cerveza La Comarca",
+      "descripcion": "Nuestra increible cerveza, con sabor citrico y frutal",
+      "precio": "₡2500",
+      "categoria": "LA CAVA DE  BILBO Y COCTELERIA"
+    },
+    {
+      "nombre": "Desolación de Smaug",
+      "descripcion": "Coctel a base de whisky, limón, gengibre y miel.",
+      "precio": "₡3900",
+      "categoria": "LA CAVA DE  BILBO Y COCTELERIA"
+    },
+    {
+      "nombre": "GIN TONIC DE MARACUYA",
+      "descripcion": "",
+      "precio": "₡3500",
+      "categoria": "LA CAVA DE  BILBO Y COCTELERIA"
+    },
+    {
+      "nombre": "GIN TONIC NARANJA",
+      "descripcion": "",
+      "precio": "₡3500",
+      "categoria": "LA CAVA DE  BILBO Y COCTELERIA"
+    },
+    {
+      "nombre": "GLUHWEIN  COPA",
+      "descripcion": "Bebida milenaria Europea para combatir los fríos inviernos",
+      "precio": "₡2900",
+      "categoria": "LA CAVA DE  BILBO Y COCTELERIA"
+    },
+    {
+      "nombre": "GRAN CABALLERO CARBENET",
+      "descripcion": "",
+      "precio": "₡17000",
+      "categoria": "LA CAVA DE  BILBO Y COCTELERIA"
+    },
+    {
+      "nombre": "LAGRIMAS DE MARIA",
+      "descripcion": "Botella",
+      "precio": "₡10000",
+      "categoria": "LA CAVA DE  BILBO Y COCTELERIA"
+    },
+    {
+      "nombre": "MARGARITA A LAS ROCAS",
+      "descripcion": "Maracuyá, Fresa, Clásica",
+      "precio": "₡4000",
+      "categoria": "LA CAVA DE  BILBO Y COCTELERIA"
+    },
+    {
+      "nombre": "MARGARITA FROZEN",
+      "descripcion": "Maracuyá,  Chipotle, Clásica, Fresa",
+      "precio": "₡5000",
+      "categoria": "LA CAVA DE  BILBO Y COCTELERIA"
+    },
+    {
+      "nombre": "PIÑA COLADA",
+      "descripcion": "",
+      "precio": "₡3900",
+      "categoria": "LA CAVA DE  BILBO Y COCTELERIA"
+    },
+    {
+      "nombre": "SANGRIA",
+      "descripcion": "",
+      "precio": "₡3500",
+      "categoria": "LA CAVA DE  BILBO Y COCTELERIA"
+    },
+    {
+      "nombre": "AMARETTO NAPOLES",
+      "descripcion": "Shot de espresso, licor amaretto, leche y canela",
+      "precio": "₡1500",
+      "categoria": "NUESTRO CAFE"
+    },
+    {
+      "nombre": "CAFE DON IVAN",
+      "descripcion": "Cafe Chorreado",
+      "precio": "₡1500",
+      "categoria": "NUESTRO CAFE"
+    },
+    {
+      "nombre": "CAPPUCCINO",
+      "descripcion": "Shot de espresso, leche y canela",
+      "precio": "₡1500",
+      "categoria": "NUESTRO CAFE"
+    },
+    {
+      "nombre": "CAPPUCCINO LA COMARCA",
+      "descripcion": "Cappiccino y licor de sabor a tu eleccion",
+      "precio": "₡2000",
+      "categoria": "NUESTRO CAFE"
+    },
+    {
+      "nombre": "CARAMELO MACHIATO",
+      "descripcion": "Shot de espresso, Caramelo Liquido y Leche",
+      "precio": "₡1300",
+      "categoria": "NUESTRO CAFE"
+    },
+    {
+      "nombre": "LATTE DRAGON",
+      "descripcion": "Shot de espresso, leche y licor de sabores a tu eleccion",
+      "precio": "₡2600",
+      "categoria": "NUESTRO CAFE"
+    },
+    {
+      "nombre": "LATTE REGULAR",
+      "descripcion": "",
+      "precio": "₡1500",
+      "categoria": "NUESTRO CAFE"
+    },
+    {
+      "nombre": "San Frappe",
+      "descripcion": "café frío frozen (vainilla, crema irlandesa, menta, chocolate, amaretto, caramelo)",
+      "precio": "Sin precio",
+      "categoria": "NUESTRO CAFE"
+    },
+    {
+      "nombre": "Agua Dulce con leche",
+      "descripcion": "",
+      "precio": "₡2000",
+      "categoria": "Otras Bebidas Calientes"
+    },
+    {
+      "nombre": "Chocolate caliente",
+      "descripcion": "",
+      "precio": "₡1300",
+      "categoria": "Otras Bebidas Calientes"
+    }
+  ]
+}
