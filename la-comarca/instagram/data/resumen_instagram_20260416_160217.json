@@ -1,0 +1,22 @@
+{
+  "_nota": "Este archivo se actualiza diariamente. Arwen debe leer este archivo para conocer las promociones VIGENTES.",
+  "_ultima_actualizacion": "2026-04-16T16:03:16.062776Z",
+  "_fuente": "https://www.instagram.com/lacomarcarestaurante/",
+  "_agente_scraping": "Prolix",
+  "_agente_consumo": "Arwen",
+  "_regla": "SOLO incluir promociones, ofertas y actividades VIGENTES o que van a suceder. NO incluir lo que ya pasó.",
+  "restaurante": {
+    "nombre": "La Comarca",
+    "instagram": "@lacomarcarestaurante",
+    "contacto": {
+      "telefono": "2540 1190 / 2573 2424",
+      "ubicaciones": [
+        "San Gabriel Pueblo Colonial, Aserrí, San José",
+        "Quebradilla, Cartago"
+      ]
+    }
+  },
+  "posts_scrapeados": 0,
+  "imagenes_descargadas": 0,
+  "posts": []
+}
