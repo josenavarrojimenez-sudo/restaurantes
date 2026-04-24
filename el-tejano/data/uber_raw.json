@@ -1,0 +1,1426 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/cr/store/el-tejano/SiqE6yVsTP6lbERei52Fmg",
+  "name": "El Tejano",
+  "servesCuisine": [
+    "Latinoamericana"
+  ],
+  "priceRange": "€",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/f4e57abe020afd37983eb54da9407a9c/61e8d264e9409914f90881b13f54d0ac.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/f4e57abe020afd37983eb54da9407a9c/aa13fff7e2466014ca51307be81e7738.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/cr/store/el-tejano/SiqE6yVsTP6lbERei52Fmg?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "Español",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet",
+      "http://purl.org/goodrelations/v1#DeliveryModePickUp"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Tejar",
+    "addressRegion": "",
+    "postalCode": "30801",
+    "addressCountry": "CR",
+    "streetAddress": "2, Provincia de Cartago, El"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 9.8433554,
+    "longitude": -83.9506935
+  },
+  "telephone": "+19074783961",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.6,
+    "reviewCount": 1000
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "06:30",
+      "closes": "18:30"
+    }
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": [
+      {
+        "@type": "MenuSection",
+        "name": "Plato de  día",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Platillo del Dia",
+            "description": "plato del dia disponible solamente de lunes a viernes",
+            "offers": {
+              "@type": "Offer",
+              "price": "5600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "tamal de cerdo",
+            "description": "Tamal de cerdo de masa de maíz, envuelto en hoja de plátano.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2500.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Las favoritas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Casados",
+            "description": "Arroz, frijoles, maduro, ensalada (lechuga, tomate, zanahoria, pepino, maíz dulce y repollo), picadillo y la carne (bistek, pollo en salsa o a la plancha, carne mechada, chuleta o pescado empanizado, al ajillo o a la plancha).",
+            "offers": {
+              "@type": "Offer",
+              "price": "6700.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Platillo del Dia",
+            "description": "plato del dia disponible solamente de lunes a viernes",
+            "offers": {
+              "@type": "Offer",
+              "price": "5600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gallo pinto con proteína",
+            "description": "Gallo pinto, maduro, pan y la carne a escoger (carne mechada, pollo mechado o Bistek).",
+            "offers": {
+              "@type": "Offer",
+              "price": "4700.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Corvina al gusto",
+            "description": "Nuestra deliciosa corvina a la plancha con una salsa de tomates frescos con camarones, también puede ser a la plancha, al ajillo o empanizada.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7900.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Desayunos",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Gallo pinto con huevos",
+            "description": "Gallo pinto, huevos (picados, picados con cebolla, picados con jamón o fritos) maduro y pan.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4100.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gallo pinto con huevos rancheros",
+            "description": "Gallo pinto, huevos rancheros, maduro y pan (la salsa ranchera es completamente natural a base de tomate, no es picante, incluye jalapeño es opcional).",
+            "offers": {
+              "@type": "Offer",
+              "price": "4900.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Omelette",
+            "description": "Puedes escoger entre omelette de pollo, omelette de carne u omelette tejano (este lleva, chile, cebolla,hongos,jamón, queso y salsa pomodoro).",
+            "offers": {
+              "@type": "Offer",
+              "price": "4300.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Desayuno típico",
+            "description": "Gallo pinto, huevo al gusto (picado, frito o ranchero) natilla, maduros, pan e incluye la bebida café o jugo.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gallo Pinto con carne salsa",
+            "description": "Gallo pinto (arroz con frijoles) acompañado de carne en salsa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4700.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gallo Pinto con bistec",
+            "description": "Gallo pinto (arroz y frijoles mezclados) con bistec.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4700.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gallo Pinto con Pollo salsa",
+            "description": "Gallo pinto (arroz y frijoles mezclados) con pollo en salsa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4700.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "pancakes",
+            "description": "Deliciosos panqueques tradicionales.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4000.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Principales",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Sopa azteca",
+            "description": "Esta deliciosa sopa está hecha a base de tomate totalmente natural, acompañada de queso, aguacate y chips.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Arroz con Camarones",
+            "description": "Arroz, olores, camarones, acompañado con papas fritas y ensalada verde(lechuga, tomate, zanahoria, pepino, maíz dulce y repollo).",
+            "offers": {
+              "@type": "Offer",
+              "price": "7100.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ensalada César",
+            "description": "Esta ensalada tiene como base lechuga, aderezo, queso parmesano, pollo a la plancha y crotones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6300.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sopa de pollo o carne",
+            "description": "Esta sopa lleva vegetales tales como zanahoria, zucchini, coliflor, brócoli, camote y arroz.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Arroz con pollo o carne",
+            "description": "Arroz, olores, carne o pollo, acompañado con papas fritas y ensalada verde (lechuga, tomate, zanahoria, pepino, maíz dulce y repollo).",
+            "offers": {
+              "@type": "Offer",
+              "price": "6500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "mac and chesse",
+            "description": "Macarrones con salsa cremosa de queso.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4900.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Tortilla Queso",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Tortillas de queso",
+            "description": "Deliciosa combinación de maíz de harina, queso, natilla y leche.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3000.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Hamburguesas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Hamburguesa de pollo",
+            "description": "Pan, pollo, lechuga y queso.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hamburguesa  Burguer House",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "6800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hamburguesa Tocineta y Aguacate",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "7100.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Bebidas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Batidos en agua",
+            "description": "250 mililitros.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coca-Cola de 600 mililitros",
+            "description": "600 mililitros.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1700.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Café con leche",
+            "description": "12 onzas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1900.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Batidos en leche",
+            "description": "250 mililitros.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coca-Cola de 355 mililitros",
+            "description": "Coca-Cola original.",
+            "offers": {
+              "@type": "Offer",
+              "price": "800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Agua",
+            "description": "600 mililitros.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1400.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chocolate",
+            "description": "12 onzas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2300.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Aguadulce negra",
+            "description": "12 onzas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fanta",
+            "description": "600 mililitros.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Café negro",
+            "description": "12 onzas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1700.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Té",
+            "description": "12 onzas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Powerade",
+            "description": "600 mililitros.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fuze Tea",
+            "description": "600 mililitros.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Canada Dry",
+            "description": "600 mililitros.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Aguadulce con leche",
+            "description": "12 onzas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2300.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fresca",
+            "description": "600 mililitros.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Soda",
+            "description": "600 mililitros.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1800.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Antojos",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Papas Fritas",
+            "description": "Papas fritas doradas y crujientes.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3400.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Nachos de Carne",
+            "description": "Nachos con carne, queso, tomate, cebolla, jalapeños y guacamole.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Nachos Pollo",
+            "description": "Tortillas de maíz cubiertas con queso derretido y pollo desmenuzado.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chalupa de Carne",
+            "description": "Deliciosa chalupa de carne, antojo clásico.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4300.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Nachos Mixtos",
+            "description": "Porción de nachos mixtos con variedad de ingredientes, ideal para compartir.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chalupa Mixta",
+            "description": "Antojito estilo mexicano en tortilla tipo chalupa con mezcla de ingredientes que aportan sabores y texturas variadas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4300.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tacos de lomo y aguacate",
+            "description": "Tortillas suaves rellenas de lomo y aguacate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tacos de Camaron",
+            "description": "Tortillas dobladas rellenas de camarón, ideales para un antojo.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chalupa Pollo",
+            "description": "Chalupa de maíz con pollo.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4300.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Gallos",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Gallo Lengua",
+            "description": "Tortilla con lengua de res.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gallo Carne",
+            "description": "Tortilla de maíz con carne.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gallo Queso",
+            "description": "Tortilla de maíz con queso.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2700.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gallo Pollo",
+            "description": "Tortilla de maíz con pollo.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gallo Picadillo",
+            "description": "Tortilla de maíz con picadillo.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3600.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Empanadas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Empanada Frijoles",
+            "description": "Empanada tradicional rellena de frijoles molidos.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Empanada Pollo",
+            "description": "Empanada de masa dorada rellena de pollo desmenuzado.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2800.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Emparedados",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Emparedado Carne Mechada",
+            "description": "Pan, carne mechada, chile dulce rojo y hojas verdes.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4900.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Emparedado Pollo",
+            "description": "Pan, pollo, lechuga y tomate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4900.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Emparedado Jamon y Queso",
+            "description": "Pan blanco de molde, jamón y queso en capas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Emparedado de Atun",
+            "description": "Pan, atún, lechuga, pepinillos y cebolla morada.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5100.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Emparedado Mano Piedra",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "5100.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Wraps",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Wrap Lomito",
+            "description": "Tortilla de harina, lomito en tiras y vegetales (pimiento, cebolla, zucchini y tomate).",
+            "offers": {
+              "@type": "Offer",
+              "price": "6200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Wrap Frio de Pollo y Aguacate",
+            "description": "Tortilla tipo wrap, servida fría, rellena con pollo en trozos y aguacate cremoso.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Wrap Chipotle",
+            "description": "Delicioso wrap con toque ahumado de chipotle.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Wrap Pollo Teriyaki",
+            "description": "Tortilla, pollo y salsa teriyaki.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Wrap Camaron",
+            "description": "Wrap de camarón, práctico y sabroso.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6200.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Crepas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Crepa Camaron",
+            "description": "Deliciosa crepa salada rellena de camarones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Crepa Pollo",
+            "description": "Crepa salada rellena de pollo.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5100.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Crepa Vegetariana",
+            "description": "Crepa delgada rellena de vegetales (opción sin carne).",
+            "offers": {
+              "@type": "Offer",
+              "price": "5100.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Crepa de Carne",
+            "description": "Deliciosa crepa salada de masa delgada, rellena de carne.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5100.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Pastas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Pasta Alfredo con Pollo",
+            "description": "Pasta en salsa Alfredo cremosa con pollo en tiras.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pasta a la Bolonesa Gratinada",
+            "description": "Pasta con salsa boloñesa de carne y tomate, coronada con queso gratinado.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6700.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pasta Alfredo con Camarones",
+            "description": "Pasta bañada en salsa Alfredo cremosa con camarones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7300.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pasta Vegetariana",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "6200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pasta Alfredo con Jamom",
+            "description": "Deliciosa pasta con salsa Alfredo cremosa y jamón.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6700.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Pollo",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Pechuga Pollo Al Gusto",
+            "description": "Pechuga de pollo al gusto: preparación a elección (sazón y cocción).",
+            "offers": {
+              "@type": "Offer",
+              "price": "6500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pechuga Gratinada al Pomodoro",
+            "description": "Pechuga de pollo cubierta de queso fundido y salsa pomodoro.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pechuga Especial Casa",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "6800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pechuga con Camarones en Salsa Aurora",
+            "description": "Pechuga de pollo con camarones en salsa Aurora, salsa rosada suave.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7900.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Mariscos",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Salmon a las hierbas",
+            "description": "Salmón sazonado con mezcla de hierbas aromáticas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Corvina Al Gusto",
+            "description": "Delicioso filete de corvina (pescado blanco) preparado al gusto: tú eliges el estilo.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7900.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Corvina Especial de la Casa",
+            "description": "A la Plancha bañada en una salsa tomate con camarones",
+            "offers": {
+              "@type": "Offer",
+              "price": "8500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mariscada",
+            "description": "Deliciosa combinación de mariscos variados.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7300.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Carnes",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Churrasco",
+            "description": "Delicioso corte de res de 300 gramos, en salsa de hongos, al vino o a la plancha.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10700.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lengua en salsa",
+            "description": "Lengua en salsa pomodoro con olores.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6700.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lomito Al Gusto",
+            "description": "Corte de lomito de res preparado al gusto; elige el término de la carne.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lomito Capresse",
+            "description": "Corte de lomito de res al estilo caprese con mozzarella, tomate y albahaca.",
+            "offers": {
+              "@type": "Offer",
+              "price": "10700.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Ensaladas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Ensalada César",
+            "description": "Esta ensalada tiene como base lechuga, aderezo, queso parmesano, pollo a la plancha y crotones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6300.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ensalada con camaron y aderezo de la casa",
+            "description": "Hojas verdes con camarones, tomate cherry y aguacate, bañada con aderezo de la casa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7000.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ensalada de la Casa",
+            "description": "Ensalada preparada al estilo de la casa; opción ideal como entrada o acompañamiento.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6300.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Entradas Calientes",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Sopa azteca",
+            "description": "Esta deliciosa sopa está hecha a base de tomate totalmente natural, acompañada de queso, aguacate y chips.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sopa Mariscos",
+            "description": "Sopa de mariscos con camarones y almejas, en caldo rojo con papa y vegetales, sazonada con olores. Ideal como entrada caliente.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7100.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sopa de pollo o carne",
+            "description": "Esta sopa lleva vegetales tales como zanahoria, zucchini, coliflor, brócoli, camote y arroz.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5600.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Platos Fuertes",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Casados",
+            "description": "Arroz, frijoles, maduro, ensalada (lechuga, tomate, zanahoria, pepino, maíz dulce y repollo), picadillo y la carne (bistek, pollo en salsa o a la plancha, carne mechada, chuleta o pescado empanizado, al ajillo o a la plancha).",
+            "offers": {
+              "@type": "Offer",
+              "price": "6700.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Arroz con Camarones",
+            "description": "Arroz, olores, camarones, acompañado con papas fritas y ensalada verde(lechuga, tomate, zanahoria, pepino, maíz dulce y repollo).",
+            "offers": {
+              "@type": "Offer",
+              "price": "7100.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Arroz con pollo o carne",
+            "description": "Arroz, olores, carne o pollo, acompañado con papas fritas y ensalada verde (lechuga, tomate, zanahoria, pepino, maíz dulce y repollo).",
+            "offers": {
+              "@type": "Offer",
+              "price": "6500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Arroz Cantones",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "5300.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Arroz con Palmito Gratinado",
+            "description": "Mezcla de arroz con trocitos de palmito, terminado al gratín con cubierta dorada.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5400.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "choco mint cake",
+            "description": "Delicioso queque de chocolate con menta, combinación clásica para los amantes del chocolate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3950.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "dedos de pescado",
+            "description": "deditos de pescado acompañado de papas fritas",
+            "offers": {
+              "@type": "Offer",
+              "price": "0.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Reposteria y Tortas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Torta Chilena",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "3450.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Torta Churchill",
+            "description": "Torta inspirada en el clásico Churchill costarricense.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Queque Chocolate",
+            "description": "Queque de chocolate, con sabor a cacao y textura esponjosa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Queque zanahoria",
+            "description": "Queque de zanahoria, porción individual.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "choco mousse",
+            "description": "Suave mousse de chocolate, textura aireada y cremosa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Queque seco arandalos",
+            "description": "Queque seco con arándanos, sin relleno ni cobertura.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "emapanada jamon y queso",
+            "description": "Deliciosa empanada salada rellena de jamón y queso.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Queque de Banano",
+            "description": "Delicioso queque de banano de textura suave y sabor a banano.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "empanada capresse",
+            "description": "Empanada estilo caprese, relleno salado con toque italiano.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "pastel de palmito y queso",
+            "description": "Delicioso pastel salado con relleno cremoso de palmito y queso.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Empanada queso champiñon",
+            "description": "Deliciosa empanada rellena de queso derretido y champiñones.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Opera clasica",
+            "description": "Torta Ópera clásica en finas capas, al estilo tradicional.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Opera  de vino y mora",
+            "description": "Torta en capas, estilo Ópera, con vino y mora.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "key lime pie",
+            "description": "Delicioso pie de limón, sabor cítrico y textura suave.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Red Velvet",
+            "description": "Torta Red Velvet, miga suave y color rojo característico.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "smores cheescake",
+            "description": "Cheesecake cremoso al estilo s'mores.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "unicornio cheescake",
+            "description": "Cheesecake cremoso con temática unicornio.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "pastel de espinaca",
+            "description": "Pastel con base de masa y relleno de espinaca.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "enchilada",
+            "description": "reposteria",
+            "offers": {
+              "@type": "Offer",
+              "price": "1500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "pastel de carne",
+            "description": "repostería",
+            "offers": {
+              "@type": "Offer",
+              "price": "1500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "rollo de canela",
+            "description": "repostería",
+            "offers": {
+              "@type": "Offer",
+              "price": "1500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "empanadita de pollo",
+            "description": "Deliciosa empanadita salada rellena de pollo.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1500.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

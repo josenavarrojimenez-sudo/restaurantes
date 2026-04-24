@@ -1,0 +1,894 @@
+{
+  "restaurant": "El Tejano",
+  "url": "https://tb-static.uber.com/prod/image-proc/processed_images/f4e57abe020afd37983eb54da9407a9c/aa13fff7e2466014ca51307be81e7738.jpeg",
+  "date_scraped": "2026-04-24",
+  "total_categories": 21,
+  "total_products": 123,
+  "total_images": 0,
+  "categories": [
+    "Plato de  día",
+    "Las favoritas",
+    "Desayunos",
+    "Principales",
+    "Tortilla Queso",
+    "Hamburguesas",
+    "Bebidas",
+    "Antojos",
+    "Gallos",
+    "Empanadas",
+    "Emparedados",
+    "Wraps",
+    "Crepas",
+    "Pastas",
+    "Pollo",
+    "Mariscos",
+    "Carnes",
+    "Ensaladas",
+    "Entradas Calientes",
+    "Platos Fuertes",
+    "Reposteria y Tortas"
+  ],
+  "products": [
+    {
+      "name": "Platillo del Dia",
+      "description": "plato del dia disponible solamente de lunes a viernes",
+      "price": "5600.00",
+      "category": "Plato de  día",
+      "image": ""
+    },
+    {
+      "name": "tamal de cerdo",
+      "description": "Tamal de cerdo de masa de maíz, envuelto en hoja de plátano.",
+      "price": "2500.00",
+      "category": "Plato de  día",
+      "image": ""
+    },
+    {
+      "name": "Casados",
+      "description": "Arroz, frijoles, maduro, ensalada (lechuga, tomate, zanahoria, pepino, maíz dulce y repollo), picadillo y la carne (bistek, pollo en salsa o a la plancha, carne mechada, chuleta o pescado empanizado, al ajillo o a la plancha).",
+      "price": "6700.00",
+      "category": "Las favoritas",
+      "image": ""
+    },
+    {
+      "name": "Platillo del Dia",
+      "description": "plato del dia disponible solamente de lunes a viernes",
+      "price": "5600.00",
+      "category": "Las favoritas",
+      "image": ""
+    },
+    {
+      "name": "Gallo pinto con proteína",
+      "description": "Gallo pinto, maduro, pan y la carne a escoger (carne mechada, pollo mechado o Bistek).",
+      "price": "4700.00",
+      "category": "Las favoritas",
+      "image": ""
+    },
+    {
+      "name": "Corvina al gusto",
+      "description": "Nuestra deliciosa corvina a la plancha con una salsa de tomates frescos con camarones, también puede ser a la plancha, al ajillo o empanizada.",
+      "price": "7900.00",
+      "category": "Las favoritas",
+      "image": ""
+    },
+    {
+      "name": "Gallo pinto con huevos",
+      "description": "Gallo pinto, huevos (picados, picados con cebolla, picados con jamón o fritos) maduro y pan.",
+      "price": "4100.00",
+      "category": "Desayunos",
+      "image": ""
+    },
+    {
+      "name": "Gallo pinto con huevos rancheros",
+      "description": "Gallo pinto, huevos rancheros, maduro y pan (la salsa ranchera es completamente natural a base de tomate, no es picante, incluye jalapeño es opcional).",
+      "price": "4900.00",
+      "category": "Desayunos",
+      "image": ""
+    },
+    {
+      "name": "Omelette",
+      "description": "Puedes escoger entre omelette de pollo, omelette de carne u omelette tejano (este lleva, chile, cebolla,hongos,jamón, queso y salsa pomodoro).",
+      "price": "4300.00",
+      "category": "Desayunos",
+      "image": ""
+    },
+    {
+      "name": "Desayuno típico",
+      "description": "Gallo pinto, huevo al gusto (picado, frito o ranchero) natilla, maduros, pan e incluye la bebida café o jugo.",
+      "price": "5600.00",
+      "category": "Desayunos",
+      "image": ""
+    },
+    {
+      "name": "Gallo Pinto con carne salsa",
+      "description": "Gallo pinto (arroz con frijoles) acompañado de carne en salsa.",
+      "price": "4700.00",
+      "category": "Desayunos",
+      "image": ""
+    },
+    {
+      "name": "Gallo Pinto con bistec",
+      "description": "Gallo pinto (arroz y frijoles mezclados) con bistec.",
+      "price": "4700.00",
+      "category": "Desayunos",
+      "image": ""
+    },
+    {
+      "name": "Gallo Pinto con Pollo salsa",
+      "description": "Gallo pinto (arroz y frijoles mezclados) con pollo en salsa.",
+      "price": "4700.00",
+      "category": "Desayunos",
+      "image": ""
+    },
+    {
+      "name": "pancakes",
+      "description": "Deliciosos panqueques tradicionales.",
+      "price": "4000.00",
+      "category": "Desayunos",
+      "image": ""
+    },
+    {
+      "name": "Sopa azteca",
+      "description": "Esta deliciosa sopa está hecha a base de tomate totalmente natural, acompañada de queso, aguacate y chips.",
+      "price": "6200.00",
+      "category": "Principales",
+      "image": ""
+    },
+    {
+      "name": "Arroz con Camarones",
+      "description": "Arroz, olores, camarones, acompañado con papas fritas y ensalada verde(lechuga, tomate, zanahoria, pepino, maíz dulce y repollo).",
+      "price": "7100.00",
+      "category": "Principales",
+      "image": ""
+    },
+    {
+      "name": "Ensalada César",
+      "description": "Esta ensalada tiene como base lechuga, aderezo, queso parmesano, pollo a la plancha y crotones.",
+      "price": "6300.00",
+      "category": "Principales",
+      "image": ""
+    },
+    {
+      "name": "Sopa de pollo o carne",
+      "description": "Esta sopa lleva vegetales tales como zanahoria, zucchini, coliflor, brócoli, camote y arroz.",
+      "price": "5600.00",
+      "category": "Principales",
+      "image": ""
+    },
+    {
+      "name": "Arroz con pollo o carne",
+      "description": "Arroz, olores, carne o pollo, acompañado con papas fritas y ensalada verde (lechuga, tomate, zanahoria, pepino, maíz dulce y repollo).",
+      "price": "6500.00",
+      "category": "Principales",
+      "image": ""
+    },
+    {
+      "name": "mac and chesse",
+      "description": "Macarrones con salsa cremosa de queso.",
+      "price": "4900.00",
+      "category": "Principales",
+      "image": ""
+    },
+    {
+      "name": "Tortillas de queso",
+      "description": "Deliciosa combinación de maíz de harina, queso, natilla y leche.",
+      "price": "3000.00",
+      "category": "Tortilla Queso",
+      "image": ""
+    },
+    {
+      "name": "Hamburguesa de pollo",
+      "description": "Pan, pollo, lechuga y queso.",
+      "price": "6200.00",
+      "category": "Hamburguesas",
+      "image": ""
+    },
+    {
+      "name": "Hamburguesa  Burguer House",
+      "description": "",
+      "price": "6800.00",
+      "category": "Hamburguesas",
+      "image": ""
+    },
+    {
+      "name": "Hamburguesa Tocineta y Aguacate",
+      "description": "",
+      "price": "7100.00",
+      "category": "Hamburguesas",
+      "image": ""
+    },
+    {
+      "name": "Batidos en agua",
+      "description": "250 mililitros.",
+      "price": "2800.00",
+      "category": "Bebidas",
+      "image": ""
+    },
+    {
+      "name": "Coca-Cola de 600 mililitros",
+      "description": "600 mililitros.",
+      "price": "1700.00",
+      "category": "Bebidas",
+      "image": ""
+    },
+    {
+      "name": "Café con leche",
+      "description": "12 onzas.",
+      "price": "1900.00",
+      "category": "Bebidas",
+      "image": ""
+    },
+    {
+      "name": "Batidos en leche",
+      "description": "250 mililitros.",
+      "price": "2500.00",
+      "category": "Bebidas",
+      "image": ""
+    },
+    {
+      "name": "Coca-Cola de 355 mililitros",
+      "description": "Coca-Cola original.",
+      "price": "800.00",
+      "category": "Bebidas",
+      "image": ""
+    },
+    {
+      "name": "Agua",
+      "description": "600 mililitros.",
+      "price": "1400.00",
+      "category": "Bebidas",
+      "image": ""
+    },
+    {
+      "name": "Chocolate",
+      "description": "12 onzas.",
+      "price": "2300.00",
+      "category": "Bebidas",
+      "image": ""
+    },
+    {
+      "name": "Aguadulce negra",
+      "description": "12 onzas.",
+      "price": "1800.00",
+      "category": "Bebidas",
+      "image": ""
+    },
+    {
+      "name": "Fanta",
+      "description": "600 mililitros.",
+      "price": "1800.00",
+      "category": "Bebidas",
+      "image": ""
+    },
+    {
+      "name": "Café negro",
+      "description": "12 onzas.",
+      "price": "1700.00",
+      "category": "Bebidas",
+      "image": ""
+    },
+    {
+      "name": "Té",
+      "description": "12 onzas.",
+      "price": "1200.00",
+      "category": "Bebidas",
+      "image": ""
+    },
+    {
+      "name": "Powerade",
+      "description": "600 mililitros.",
+      "price": "1800.00",
+      "category": "Bebidas",
+      "image": ""
+    },
+    {
+      "name": "Fuze Tea",
+      "description": "600 mililitros.",
+      "price": "1800.00",
+      "category": "Bebidas",
+      "image": ""
+    },
+    {
+      "name": "Canada Dry",
+      "description": "600 mililitros.",
+      "price": "1800.00",
+      "category": "Bebidas",
+      "image": ""
+    },
+    {
+      "name": "Aguadulce con leche",
+      "description": "12 onzas.",
+      "price": "2300.00",
+      "category": "Bebidas",
+      "image": ""
+    },
+    {
+      "name": "Fresca",
+      "description": "600 mililitros.",
+      "price": "1800.00",
+      "category": "Bebidas",
+      "image": ""
+    },
+    {
+      "name": "Soda",
+      "description": "600 mililitros.",
+      "price": "1800.00",
+      "category": "Bebidas",
+      "image": ""
+    },
+    {
+      "name": "Papas Fritas",
+      "description": "Papas fritas doradas y crujientes.",
+      "price": "3400.00",
+      "category": "Antojos",
+      "image": ""
+    },
+    {
+      "name": "Nachos de Carne",
+      "description": "Nachos con carne, queso, tomate, cebolla, jalapeños y guacamole.",
+      "price": "4500.00",
+      "category": "Antojos",
+      "image": ""
+    },
+    {
+      "name": "Nachos Pollo",
+      "description": "Tortillas de maíz cubiertas con queso derretido y pollo desmenuzado.",
+      "price": "4500.00",
+      "category": "Antojos",
+      "image": ""
+    },
+    {
+      "name": "Chalupa de Carne",
+      "description": "Deliciosa chalupa de carne, antojo clásico.",
+      "price": "4300.00",
+      "category": "Antojos",
+      "image": ""
+    },
+    {
+      "name": "Nachos Mixtos",
+      "description": "Porción de nachos mixtos con variedad de ingredientes, ideal para compartir.",
+      "price": "4500.00",
+      "category": "Antojos",
+      "image": ""
+    },
+    {
+      "name": "Chalupa Mixta",
+      "description": "Antojito estilo mexicano en tortilla tipo chalupa con mezcla de ingredientes que aportan sabores y texturas variadas.",
+      "price": "4300.00",
+      "category": "Antojos",
+      "image": ""
+    },
+    {
+      "name": "Tacos de lomo y aguacate",
+      "description": "Tortillas suaves rellenas de lomo y aguacate.",
+      "price": "5600.00",
+      "category": "Antojos",
+      "image": ""
+    },
+    {
+      "name": "Tacos de Camaron",
+      "description": "Tortillas dobladas rellenas de camarón, ideales para un antojo.",
+      "price": "6200.00",
+      "category": "Antojos",
+      "image": ""
+    },
+    {
+      "name": "Chalupa Pollo",
+      "description": "Chalupa de maíz con pollo.",
+      "price": "4300.00",
+      "category": "Antojos",
+      "image": ""
+    },
+    {
+      "name": "Gallo Lengua",
+      "description": "Tortilla con lengua de res.",
+      "price": "3600.00",
+      "category": "Gallos",
+      "image": ""
+    },
+    {
+      "name": "Gallo Carne",
+      "description": "Tortilla de maíz con carne.",
+      "price": "3600.00",
+      "category": "Gallos",
+      "image": ""
+    },
+    {
+      "name": "Gallo Queso",
+      "description": "Tortilla de maíz con queso.",
+      "price": "2700.00",
+      "category": "Gallos",
+      "image": ""
+    },
+    {
+      "name": "Gallo Pollo",
+      "description": "Tortilla de maíz con pollo.",
+      "price": "3600.00",
+      "category": "Gallos",
+      "image": ""
+    },
+    {
+      "name": "Gallo Picadillo",
+      "description": "Tortilla de maíz con picadillo.",
+      "price": "3600.00",
+      "category": "Gallos",
+      "image": ""
+    },
+    {
+      "name": "Empanada Frijoles",
+      "description": "Empanada tradicional rellena de frijoles molidos.",
+      "price": "2800.00",
+      "category": "Empanadas",
+      "image": ""
+    },
+    {
+      "name": "Empanada Pollo",
+      "description": "Empanada de masa dorada rellena de pollo desmenuzado.",
+      "price": "2800.00",
+      "category": "Empanadas",
+      "image": ""
+    },
+    {
+      "name": "Emparedado Carne Mechada",
+      "description": "Pan, carne mechada, chile dulce rojo y hojas verdes.",
+      "price": "4900.00",
+      "category": "Emparedados",
+      "image": ""
+    },
+    {
+      "name": "Emparedado Pollo",
+      "description": "Pan, pollo, lechuga y tomate.",
+      "price": "4900.00",
+      "category": "Emparedados",
+      "image": ""
+    },
+    {
+      "name": "Emparedado Jamon y Queso",
+      "description": "Pan blanco de molde, jamón y queso en capas.",
+      "price": "4500.00",
+      "category": "Emparedados",
+      "image": ""
+    },
+    {
+      "name": "Emparedado de Atun",
+      "description": "Pan, atún, lechuga, pepinillos y cebolla morada.",
+      "price": "5100.00",
+      "category": "Emparedados",
+      "image": ""
+    },
+    {
+      "name": "Emparedado Mano Piedra",
+      "description": "",
+      "price": "5100.00",
+      "category": "Emparedados",
+      "image": ""
+    },
+    {
+      "name": "Wrap Lomito",
+      "description": "Tortilla de harina, lomito en tiras y vegetales (pimiento, cebolla, zucchini y tomate).",
+      "price": "6200.00",
+      "category": "Wraps",
+      "image": ""
+    },
+    {
+      "name": "Wrap Frio de Pollo y Aguacate",
+      "description": "Tortilla tipo wrap, servida fría, rellena con pollo en trozos y aguacate cremoso.",
+      "price": "5600.00",
+      "category": "Wraps",
+      "image": ""
+    },
+    {
+      "name": "Wrap Chipotle",
+      "description": "Delicioso wrap con toque ahumado de chipotle.",
+      "price": "5600.00",
+      "category": "Wraps",
+      "image": ""
+    },
+    {
+      "name": "Wrap Pollo Teriyaki",
+      "description": "Tortilla, pollo y salsa teriyaki.",
+      "price": "5600.00",
+      "category": "Wraps",
+      "image": ""
+    },
+    {
+      "name": "Wrap Camaron",
+      "description": "Wrap de camarón, práctico y sabroso.",
+      "price": "6200.00",
+      "category": "Wraps",
+      "image": ""
+    },
+    {
+      "name": "Crepa Camaron",
+      "description": "Deliciosa crepa salada rellena de camarones.",
+      "price": "5600.00",
+      "category": "Crepas",
+      "image": ""
+    },
+    {
+      "name": "Crepa Pollo",
+      "description": "Crepa salada rellena de pollo.",
+      "price": "5100.00",
+      "category": "Crepas",
+      "image": ""
+    },
+    {
+      "name": "Crepa Vegetariana",
+      "description": "Crepa delgada rellena de vegetales (opción sin carne).",
+      "price": "5100.00",
+      "category": "Crepas",
+      "image": ""
+    },
+    {
+      "name": "Crepa de Carne",
+      "description": "Deliciosa crepa salada de masa delgada, rellena de carne.",
+      "price": "5100.00",
+      "category": "Crepas",
+      "image": ""
+    },
+    {
+      "name": "Pasta Alfredo con Pollo",
+      "description": "Pasta en salsa Alfredo cremosa con pollo en tiras.",
+      "price": "6500.00",
+      "category": "Pastas",
+      "image": ""
+    },
+    {
+      "name": "Pasta a la Bolonesa Gratinada",
+      "description": "Pasta con salsa boloñesa de carne y tomate, coronada con queso gratinado.",
+      "price": "6700.00",
+      "category": "Pastas",
+      "image": ""
+    },
+    {
+      "name": "Pasta Alfredo con Camarones",
+      "description": "Pasta bañada en salsa Alfredo cremosa con camarones.",
+      "price": "7300.00",
+      "category": "Pastas",
+      "image": ""
+    },
+    {
+      "name": "Pasta Vegetariana",
+      "description": "",
+      "price": "6200.00",
+      "category": "Pastas",
+      "image": ""
+    },
+    {
+      "name": "Pasta Alfredo con Jamom",
+      "description": "Deliciosa pasta con salsa Alfredo cremosa y jamón.",
+      "price": "6700.00",
+      "category": "Pastas",
+      "image": ""
+    },
+    {
+      "name": "Pechuga Pollo Al Gusto",
+      "description": "Pechuga de pollo al gusto: preparación a elección (sazón y cocción).",
+      "price": "6500.00",
+      "category": "Pollo",
+      "image": ""
+    },
+    {
+      "name": "Pechuga Gratinada al Pomodoro",
+      "description": "Pechuga de pollo cubierta de queso fundido y salsa pomodoro.",
+      "price": "6800.00",
+      "category": "Pollo",
+      "image": ""
+    },
+    {
+      "name": "Pechuga Especial Casa",
+      "description": "",
+      "price": "6800.00",
+      "category": "Pollo",
+      "image": ""
+    },
+    {
+      "name": "Pechuga con Camarones en Salsa Aurora",
+      "description": "Pechuga de pollo con camarones en salsa Aurora, salsa rosada suave.",
+      "price": "7900.00",
+      "category": "Pollo",
+      "image": ""
+    },
+    {
+      "name": "Salmon a las hierbas",
+      "description": "Salmón sazonado con mezcla de hierbas aromáticas.",
+      "price": "9500.00",
+      "category": "Mariscos",
+      "image": ""
+    },
+    {
+      "name": "Corvina Al Gusto",
+      "description": "Delicioso filete de corvina (pescado blanco) preparado al gusto: tú eliges el estilo.",
+      "price": "7900.00",
+      "category": "Mariscos",
+      "image": ""
+    },
+    {
+      "name": "Corvina Especial de la Casa",
+      "description": "A la Plancha bañada en una salsa tomate con camarones",
+      "price": "8500.00",
+      "category": "Mariscos",
+      "image": ""
+    },
+    {
+      "name": "Mariscada",
+      "description": "Deliciosa combinación de mariscos variados.",
+      "price": "7300.00",
+      "category": "Mariscos",
+      "image": ""
+    },
+    {
+      "name": "Churrasco",
+      "description": "Delicioso corte de res de 300 gramos, en salsa de hongos, al vino o a la plancha.",
+      "price": "10700.00",
+      "category": "Carnes",
+      "image": ""
+    },
+    {
+      "name": "Lengua en salsa",
+      "description": "Lengua en salsa pomodoro con olores.",
+      "price": "6700.00",
+      "category": "Carnes",
+      "image": ""
+    },
+    {
+      "name": "Lomito Al Gusto",
+      "description": "Corte de lomito de res preparado al gusto; elige el término de la carne.",
+      "price": "9800.00",
+      "category": "Carnes",
+      "image": ""
+    },
+    {
+      "name": "Lomito Capresse",
+      "description": "Corte de lomito de res al estilo caprese con mozzarella, tomate y albahaca.",
+      "price": "10700.00",
+      "category": "Carnes",
+      "image": ""
+    },
+    {
+      "name": "Ensalada César",
+      "description": "Esta ensalada tiene como base lechuga, aderezo, queso parmesano, pollo a la plancha y crotones.",
+      "price": "6300.00",
+      "category": "Ensaladas",
+      "image": ""
+    },
+    {
+      "name": "Ensalada con camaron y aderezo de la casa",
+      "description": "Hojas verdes con camarones, tomate cherry y aguacate, bañada con aderezo de la casa.",
+      "price": "7000.00",
+      "category": "Ensaladas",
+      "image": ""
+    },
+    {
+      "name": "Ensalada de la Casa",
+      "description": "Ensalada preparada al estilo de la casa; opción ideal como entrada o acompañamiento.",
+      "price": "6300.00",
+      "category": "Ensaladas",
+      "image": ""
+    },
+    {
+      "name": "Sopa azteca",
+      "description": "Esta deliciosa sopa está hecha a base de tomate totalmente natural, acompañada de queso, aguacate y chips.",
+      "price": "6200.00",
+      "category": "Entradas Calientes",
+      "image": ""
+    },
+    {
+      "name": "Sopa Mariscos",
+      "description": "Sopa de mariscos con camarones y almejas, en caldo rojo con papa y vegetales, sazonada con olores. Ideal como entrada caliente.",
+      "price": "7100.00",
+      "category": "Entradas Calientes",
+      "image": ""
+    },
+    {
+      "name": "Sopa de pollo o carne",
+      "description": "Esta sopa lleva vegetales tales como zanahoria, zucchini, coliflor, brócoli, camote y arroz.",
+      "price": "5600.00",
+      "category": "Entradas Calientes",
+      "image": ""
+    },
+    {
+      "name": "Casados",
+      "description": "Arroz, frijoles, maduro, ensalada (lechuga, tomate, zanahoria, pepino, maíz dulce y repollo), picadillo y la carne (bistek, pollo en salsa o a la plancha, carne mechada, chuleta o pescado empanizado, al ajillo o a la plancha).",
+      "price": "6700.00",
+      "category": "Platos Fuertes",
+      "image": ""
+    },
+    {
+      "name": "Arroz con Camarones",
+      "description": "Arroz, olores, camarones, acompañado con papas fritas y ensalada verde(lechuga, tomate, zanahoria, pepino, maíz dulce y repollo).",
+      "price": "7100.00",
+      "category": "Platos Fuertes",
+      "image": ""
+    },
+    {
+      "name": "Arroz con pollo o carne",
+      "description": "Arroz, olores, carne o pollo, acompañado con papas fritas y ensalada verde (lechuga, tomate, zanahoria, pepino, maíz dulce y repollo).",
+      "price": "6500.00",
+      "category": "Platos Fuertes",
+      "image": ""
+    },
+    {
+      "name": "Arroz Cantones",
+      "description": "",
+      "price": "5300.00",
+      "category": "Platos Fuertes",
+      "image": ""
+    },
+    {
+      "name": "Arroz con Palmito Gratinado",
+      "description": "Mezcla de arroz con trocitos de palmito, terminado al gratín con cubierta dorada.",
+      "price": "5400.00",
+      "category": "Platos Fuertes",
+      "image": ""
+    },
+    {
+      "name": "choco mint cake",
+      "description": "Delicioso queque de chocolate con menta, combinación clásica para los amantes del chocolate.",
+      "price": "3950.00",
+      "category": "Platos Fuertes",
+      "image": ""
+    },
+    {
+      "name": "dedos de pescado",
+      "description": "deditos de pescado acompañado de papas fritas",
+      "price": "0.00",
+      "category": "Platos Fuertes",
+      "image": ""
+    },
+    {
+      "name": "Torta Chilena",
+      "description": "",
+      "price": "3450.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    },
+    {
+      "name": "Torta Churchill",
+      "description": "Torta inspirada en el clásico Churchill costarricense.",
+      "price": "2200.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    },
+    {
+      "name": "Queque Chocolate",
+      "description": "Queque de chocolate, con sabor a cacao y textura esponjosa.",
+      "price": "2200.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    },
+    {
+      "name": "Queque zanahoria",
+      "description": "Queque de zanahoria, porción individual.",
+      "price": "2200.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    },
+    {
+      "name": "choco mousse",
+      "description": "Suave mousse de chocolate, textura aireada y cremosa.",
+      "price": "4600.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    },
+    {
+      "name": "Queque seco arandalos",
+      "description": "Queque seco con arándanos, sin relleno ni cobertura.",
+      "price": "2200.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    },
+    {
+      "name": "emapanada jamon y queso",
+      "description": "Deliciosa empanada salada rellena de jamón y queso.",
+      "price": "2800.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    },
+    {
+      "name": "Queque de Banano",
+      "description": "Delicioso queque de banano de textura suave y sabor a banano.",
+      "price": "2200.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    },
+    {
+      "name": "empanada capresse",
+      "description": "Empanada estilo caprese, relleno salado con toque italiano.",
+      "price": "2800.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    },
+    {
+      "name": "pastel de palmito y queso",
+      "description": "Delicioso pastel salado con relleno cremoso de palmito y queso.",
+      "price": "2800.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    },
+    {
+      "name": "Empanada queso champiñon",
+      "description": "Deliciosa empanada rellena de queso derretido y champiñones.",
+      "price": "2800.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    },
+    {
+      "name": "Opera clasica",
+      "description": "Torta Ópera clásica en finas capas, al estilo tradicional.",
+      "price": "4600.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    },
+    {
+      "name": "Opera  de vino y mora",
+      "description": "Torta en capas, estilo Ópera, con vino y mora.",
+      "price": "4600.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    },
+    {
+      "name": "key lime pie",
+      "description": "Delicioso pie de limón, sabor cítrico y textura suave.",
+      "price": "4600.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    },
+    {
+      "name": "Red Velvet",
+      "description": "Torta Red Velvet, miga suave y color rojo característico.",
+      "price": "4600.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    },
+    {
+      "name": "smores cheescake",
+      "description": "Cheesecake cremoso al estilo s'mores.",
+      "price": "4600.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    },
+    {
+      "name": "unicornio cheescake",
+      "description": "Cheesecake cremoso con temática unicornio.",
+      "price": "4600.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    },
+    {
+      "name": "pastel de espinaca",
+      "description": "Pastel con base de masa y relleno de espinaca.",
+      "price": "2800.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    },
+    {
+      "name": "enchilada",
+      "description": "reposteria",
+      "price": "1500.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    },
+    {
+      "name": "pastel de carne",
+      "description": "repostería",
+      "price": "1500.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    },
+    {
+      "name": "rollo de canela",
+      "description": "repostería",
+      "price": "1500.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    },
+    {
+      "name": "empanadita de pollo",
+      "description": "Deliciosa empanadita salada rellena de pollo.",
+      "price": "1500.00",
+      "category": "Reposteria y Tortas",
+      "image": ""
+    }
+  ]
+}
