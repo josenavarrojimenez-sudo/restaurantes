@@ -1,0 +1,832 @@
+{
+  "restaurant": "Woods Pizza a la Leña",
+  "source_url": "https://woodspizza.caroje.com",
+  "date_scraped": "2026-04-24",
+  "categories": [
+    {
+      "name": "Antipastos",
+      "items": [
+        {
+          "name": "Woods",
+          "description": "Combinación de fiambres y quesos, acompañados de hummus, aceitunas kalamatas y focaccia rosmarino.",
+          "price_crc": 25200
+        },
+        {
+          "name": "Hummus",
+          "description": "Puré de garbanzos cocidos.",
+          "price_crc": 6000
+        }
+      ]
+    },
+    {
+      "name": "Carpaccios",
+      "items": [
+        {
+          "name": "Woods",
+          "description": "Carne de búfalo, hongos frescos, queso parmigiano y arúgula. Acompañado con 4 slices de focaccia blanca ó rosmarino.",
+          "price_crc": 7900
+        },
+        {
+          "name": "Res",
+          "description": "Lomito de res, hongos, queso parmigiano y arúgula. Acompañado con 4 slices de focaccia blanca ó rosmarino.",
+          "price_crc": 8400
+        },
+        {
+          "name": "Atún",
+          "description": "Atún, alcaparras, cebolla morada y arúgula. Acompañado con 4 slices de focaccia blanca ó rosmarino.",
+          "price_crc": 7800
+        },
+        {
+          "name": "Salmón Fresco",
+          "description": "Salmón fresco, alcaparras, cebolla morada y arúgula. Acompañado con 4 slices de focaccia blanca ó rosmarino.",
+          "price_crc": 8500
+        },
+        {
+          "name": "Salmón Ahumado",
+          "description": "Salmón ahumado, cebolla morada, alcaparras y arúgula. Acompañado con 4 slices de focaccia blanca ó rosmarino.",
+          "price_crc": 11300
+        },
+        {
+          "name": "Hongos",
+          "description": "Hongos Frescos, cebolla morada, alcaparras y arúgula. Acompañado con 4 slices de focaccia blanca ó rosmarino.",
+          "price_crc": 7850
+        },
+        {
+          "name": "Rolatín de Salmón Ahumado",
+          "description": "4 Rollos rellenos de capocollo, arúgula, mozzarella fresca y chile morrón, con cebolla morada, alcaparras y olivas negras.",
+          "price_crc": 16900
+        }
+      ]
+    },
+    {
+      "name": "Ensaladas",
+      "items": [
+        {
+          "name": "Woods",
+          "description": "Filet de atún, mix de lechugas, hongos frescos, zanahoria y tomate.",
+          "price_crc": 11900
+        },
+        {
+          "name": "Caprese",
+          "description": "Mozzarella fresca, tomate, aceitunas, alcaparras y pesto.",
+          "price_crc": 6400
+        },
+        {
+          "name": "Greca",
+          "description": "Mix de lechugas, cebolla morada, aceitunas, kalamata, pepino, tomate, queso feta, orégano, balsámico y vinagreta.",
+          "price_crc": 9200
+        },
+        {
+          "name": "Verde",
+          "description": "Mix de lechugas, pepino, tomate, zanahoria, cebolla, balsámico y vinagreta..",
+          "price_crc": 4800
+        },
+        {
+          "name": "César Con Pollo",
+          "description": "Lechuga romana, pollo, aderezo César y queso parmigiano.",
+          "price_crc": 9800
+        }
+      ]
+    },
+    {
+      "name": "Pizzas",
+      "items": [
+        {
+          "name": "Woods",
+          "description": "Pizza blanca con salmón ahumado, alcaparras, cebolla morada y stracchino.",
+          "price_crc": 13800
+        },
+        {
+          "name": "Napoletana",
+          "description": "Alcaparras y anchoas.",
+          "price_crc": 8200
+        },
+        {
+          "name": "Margarita",
+          "description": "Tomate y albahaca.",
+          "price_crc": 7800
+        },
+        {
+          "name": "Prosciutto Cotto",
+          "description": "Jamón cocido.",
+          "price_crc": 9200
+        },
+        {
+          "name": "Romana",
+          "description": "Jamón cocido y hongos.",
+          "price_crc": 10200
+        },
+        {
+          "name": "Prosciutto Crudo",
+          "description": "Prosciutto crudo.",
+          "price_crc": 10600
+        },
+        {
+          "name": "Prosciutto, Arúgula &amp; Parmigiano",
+          "description": "Prosciutto crudo, arúgula fresca y parmigiano.",
+          "price_crc": 12900
+        },
+        {
+          "name": "Salame",
+          "description": "Salame italiano.",
+          "price_crc": 9200
+        },
+        {
+          "name": "Salame Picante",
+          "description": "Salame italiano picante.",
+          "price_crc": 9200
+        },
+        {
+          "name": "Scamorza &amp; Salsiccia",
+          "description": "Queso ahumado y salsiccia italiana.",
+          "price_crc": 9800
+        },
+        {
+          "name": "Salsiccia",
+          "description": "Salsiccia italiana marinada en hierbas",
+          "price_crc": 8400
+        },
+        {
+          "name": "Salsiccia Picante",
+          "description": "Salsiccia italiana picante.",
+          "price_crc": 8400
+        },
+        {
+          "name": "Funghi &amp; Salsiccia",
+          "description": "Hongos frescos, y salsiccia italiana.",
+          "price_crc": 9200
+        },
+        {
+          "name": "Cuatro Estaciones",
+          "description": "Olivas negras, jamón cocido, alcachofas, y hongos frescos.",
+          "price_crc": 8600
+        },
+        {
+          "name": "Cuatro Quesos",
+          "description": "Mozzarella, ricotta, gorgonzola y parmigiano.",
+          "price_crc": 9200
+        },
+        {
+          "name": "Gamberi",
+          "description": "Camarones y albahaca.",
+          "price_crc": 9600
+        },
+        {
+          "name": "Funghi",
+          "description": "Hongos mixtos.",
+          "price_crc": 10400
+        },
+        {
+          "name": "Capricciosa",
+          "description": "Jamón cocido , hongos y alcachofas.",
+          "price_crc": 10400
+        },
+        {
+          "name": "Pepperoni",
+          "description": "Pepperoni.",
+          "price_crc": 8900
+        },
+        {
+          "name": "Greca",
+          "description": "Queso de cabra y espinacas.",
+          "price_crc": 7800
+        },
+        {
+          "name": "Vegetales",
+          "description": "Zucchini, berenjena, hongos, cebolla, chile morrón y aceitunas negras.",
+          "price_crc": 8000
+        },
+        {
+          "name": "Hawaiiana",
+          "description": "Jamón cocido y piña caramelizada.",
+          "price_crc": 9900
+        },
+        {
+          "name": "Bufalina",
+          "description": "Trocitos de carne de búfalo marinados con hierbas, hongos frescos y cebolla caramelizada.",
+          "price_crc": 9900
+        },
+        {
+          "name": "Pasticciona",
+          "description": "Salsiccia, prosciutto cotto, chile morrón , hongos frescos y cebolla morada.",
+          "price_crc": 10400
+        },
+        {
+          "name": "Frutti Di Mare",
+          "description": "Aros de calamar, pulpo, camarones y mejillones.",
+          "price_crc": 10800
+        },
+        {
+          "name": "Di Manzo",
+          "description": "Lomito, chile mundial, espárragos frescos, salsa demiglace y escabeche de cebolla morada.",
+          "price_crc": 12700
+        },
+        {
+          "name": "Alla Zucca",
+          "description": "Crema de ayote, papa, chile mundial, cebolla, tomate en cuadritos, espinaca y queso caprino.",
+          "price_crc": 8500
+        },
+        {
+          "name": "Pizza Gaucha",
+          "description": "Chorizo de manzana verde-jengibre (embutidos artesanales El Gaucho) tomate, cebolla morada, limón mesino y chimichurri de la casa.",
+          "price_crc": 8800
+        },
+        {
+          "name": "Spianata",
+          "description": "Espárragos frescos, tomate deshidratado y spianata (ligeramente picante)",
+          "price_crc": 11100
+        }
+      ]
+    },
+    {
+      "name": "Focaccia",
+      "items": [
+        {
+          "name": "Woods",
+          "description": "Queso gorgonzola, cebolla morada y albahaca.",
+          "price_crc": 4800
+        },
+        {
+          "name": "Rosmarino",
+          "description": "Oliva, ajo y romero.",
+          "price_crc": 3500
+        },
+        {
+          "name": "Funghi",
+          "description": "Hongos mixtos.",
+          "price_crc": 7200
+        },
+        {
+          "name": "Calabra",
+          "description": "Salsiccia picante, arúgula y parmigiano.",
+          "price_crc": 6800
+        },
+        {
+          "name": "Pesto",
+          "description": "Pesto genovese (salsa de albahaca).",
+          "price_crc": 4800
+        },
+        {
+          "name": "Caprese",
+          "description": "Mozzarella fresca, tomate, albahaca y pesto.",
+          "price_crc": 8800
+        },
+        {
+          "name": "Panzanella",
+          "description": "Mozzarela fresca, tomate en cuadritos y albahaca.",
+          "price_crc": 7600
+        },
+        {
+          "name": "Fogaucha",
+          "description": "Focaccia rellena de queso mozzarella, con chorizo de embutidos El Gaucho, cebolla morada y albahaca. Acompañada de salsa pomodoro.",
+          "price_crc": 8800
+        },
+        {
+          "name": "Woodsticks",
+          "description": "Palitos de pan horneado con queso, acompañado de salsa pomodoro de la casa.",
+          "price_crc": 4200
+        },
+        {
+          "name": "Woodsticks Pepperoni",
+          "description": "Palitos de pan horneado con queso y pepperoni, acompañado de salsa pomodoro de la casa.",
+          "price_crc": 4600
+        }
+      ]
+    },
+    {
+      "name": "Calzone",
+      "items": [
+        {
+          "name": "Woods",
+          "description": "Zucchini, hongos, chile morrón y olivas.",
+          "price_crc": 7800
+        },
+        {
+          "name": "Caprese",
+          "description": "Mozzarella fresca, tomate en trozos y pesto.",
+          "price_crc": 8800
+        },
+        {
+          "name": "Romano",
+          "description": "Jamón cocido y hongos.",
+          "price_crc": 9000
+        },
+        {
+          "name": "Pomodoro",
+          "description": "Mozzarella y albahaca.",
+          "price_crc": 6800
+        },
+        {
+          "name": "Funghi",
+          "description": "Hongos mixtos.",
+          "price_crc": 9800
+        },
+        {
+          "name": "Primavera",
+          "description": "Vegetales mixtos.",
+          "price_crc": 8000
+        }
+      ]
+    },
+    {
+      "name": "Panini",
+      "items": [
+        {
+          "name": "Woods",
+          "description": "Pan horneado tipo pita, salmón ahumado, stracchino, alcaparras y cebolla morada.",
+          "price_crc": 9800
+        },
+        {
+          "name": "Caprese",
+          "description": "Pan horneado tipo pita, mozzarella fresca, tomate, lechuga, aceitunas kalamata, alcaparras y pesto.",
+          "price_crc": 7800
+        },
+        {
+          "name": "Vegetales",
+          "description": "Pan horneado tipo pita, mozzarella, arúgula, tomate, hongos, chile, cebolla y aceitunas negras.",
+          "price_crc": 7600
+        },
+        {
+          "name": "Prosciutto Crudo",
+          "description": "Pan horneado tipo pita, mozzarella fresca, tomate, prosciutto crudo y pesto.",
+          "price_crc": 10800
+        },
+        {
+          "name": "Prosciutto Cotto",
+          "description": "Pan horneado tipo pita, queso mozzarella, lechuga, tomate, jamón cocido y hongos.",
+          "price_crc": 10100
+        },
+        {
+          "name": "Prosciutto Crudo Cocido",
+          "description": "Pan horneado tipo pita, mozzarella, prosciutto crudo cocinado al horno, lechuga, cebolla morada y vinagreta",
+          "price_crc": 10800
+        },
+        {
+          "name": "Pollo",
+          "description": "Pan horneado tipo pita, queso mozzarella, lechuga, hongos, tomate y pollo.",
+          "price_crc": 9200
+        },
+        {
+          "name": "Romano",
+          "description": "Pan horneado tipo pita, queso mozzarella, prosciutto cotto, hongos, tomate y espinaca.",
+          "price_crc": 12420
+        },
+        {
+          "name": "Di Nanne",
+          "description": "Lomito, mozzarella, chile mundial, espárragos frescos, salsa demiglace y escabeche de cebolla morada.",
+          "price_crc": 12700
+        }
+      ]
+    },
+    {
+      "name": "Stromboli",
+      "items": [
+        {
+          "name": "Carne",
+          "description": "Rollo de pizza relleno de pepperoni, salsiccia italina, capocollo y queso provolone, acompañado con salsa pomodoro de la casa.",
+          "price_crc": 9500
+        },
+        {
+          "name": "Vegetariano",
+          "description": "Rollo de pizza relleno de chile morrón, cebolla morada, hongos, albahaca, queso caprino y queso provolone, Salsa pomodoro.",
+          "price_crc": 7500
+        }
+      ]
+    },
+    {
+      "name": "Wraps",
+      "items": [
+        {
+          "name": "Woods",
+          "description": "Tortilla horneada casera, hummus, lechuga, chile, cebolla, hongos y tomate.",
+          "price_crc": 6500
+        },
+        {
+          "name": "Atún",
+          "description": "Tortilla horneada casera, queso mozzarella, lechuga, tomate, zanahoria, pesto y atún en trozos..",
+          "price_crc": 11700
+        },
+        {
+          "name": "Caprese",
+          "description": "Tortilla horneada casera, queso mozzarella fresca, tomate y pesto.",
+          "price_crc": 7800
+        },
+        {
+          "name": "Pollo",
+          "description": "Tortilla horneada casera, mozzarella, pollo, lechuga, tomate y pesto.",
+          "price_crc": 9600
+        },
+        {
+          "name": "Mediterráneo",
+          "description": "Tortilla horneada casera, hummus de la casa, queso scamorza (ahumado), pollo, chile morrón y aceitunas kalamata",
+          "price_crc": 9600
+        }
+      ]
+    },
+    {
+      "name": "Postres",
+      "items": [
+        {
+          "name": "Panna Cotta",
+          "description": "Flan italiano con coulis de frutos rojos.",
+          "price_crc": 3900
+        },
+        {
+          "name": "Salame de Chocolate",
+          "description": "Acompañado con helado.",
+          "price_crc": 4200
+        },
+        {
+          "name": "Focaccia Dolce",
+          "description": "Foccaccia con crema de avellanas y fresas.",
+          "price_crc": 4200
+        },
+        {
+          "name": "Semifredo",
+          "description": "",
+          "price_crc": 3600
+        },
+        {
+          "name": "Copa De Helado Casero",
+          "description": "",
+          "price_crc": 3600
+        },
+        {
+          "name": "Tiramizú",
+          "description": "",
+          "price_crc": 5300
+        }
+      ]
+    },
+    {
+      "name": "Ronda para el equipo de Cocina! 🥂",
+      "items": [
+        {
+          "name": "TIP COCINA 🍻",
+          "description": "Nuestro equipo de cocina prepara los platillos con todo el amor y dedicación para que los disfrutes! Agradéceles con una Ronda!😃",
+          "price_crc": 2000
+        }
+      ]
+    },
+    {
+      "name": "Menú de bebidas",
+      "items": [
+        {
+          "name": "Sangría de La Casa",
+          "description": "",
+          "price_crc": 4000
+        },
+        {
+          "name": "Sangría Blanca de La Casa",
+          "description": "",
+          "price_crc": 4000
+        },
+        {
+          "name": "Imperial",
+          "description": "",
+          "price_crc": 1600
+        },
+        {
+          "name": "Imperial Silver",
+          "description": "",
+          "price_crc": 1600
+        },
+        {
+          "name": "Imperial Ultra",
+          "description": "",
+          "price_crc": 1600
+        },
+        {
+          "name": "Imperial Light",
+          "description": "",
+          "price_crc": 1600
+        },
+        {
+          "name": "Pilsen",
+          "description": "",
+          "price_crc": 1600
+        },
+        {
+          "name": "Pilsen 6.0",
+          "description": "",
+          "price_crc": 1600
+        },
+        {
+          "name": "Bavaria Light",
+          "description": "",
+          "price_crc": 2000
+        },
+        {
+          "name": "Bavaria Gold",
+          "description": "",
+          "price_crc": 2000
+        },
+        {
+          "name": "Bavaria Master",
+          "description": "",
+          "price_crc": 2000
+        },
+        {
+          "name": "Adán &amp; Eva",
+          "description": "",
+          "price_crc": 2500
+        },
+        {
+          "name": "Kombucha",
+          "description": "Bebida probiótica, gaseosa, sin alcohol.",
+          "price_crc": 2800
+        },
+        {
+          "name": "Gaseosa Salt Traders de Cas",
+          "description": "",
+          "price_crc": 2500
+        },
+        {
+          "name": "Gaseosa Salt Traders de Crema",
+          "description": "",
+          "price_crc": 2500
+        },
+        {
+          "name": "Gaseosa Salt Traders de Maracuyá",
+          "description": "",
+          "price_crc": 2500
+        },
+        {
+          "name": "Gaseosa Salt Traders de Limón y Jengibre",
+          "description": "",
+          "price_crc": 2500
+        },
+        {
+          "name": "Gaseosa Salt Traders Te Frío con Limón",
+          "description": "",
+          "price_crc": 2500
+        },
+        {
+          "name": "Café Arú",
+          "description": "",
+          "price_crc": 1600
+        },
+        {
+          "name": "Té Caliente Sencha",
+          "description": "",
+          "price_crc": 1600
+        },
+        {
+          "name": "Te Frío Woods",
+          "description": "",
+          "price_crc": 1500
+        },
+        {
+          "name": "Refrescos 100% Naturales (cas, frutas, guanábana, limonada, mango, maracuyá, melón, piña)",
+          "description": "",
+          "price_crc": 2000
+        },
+        {
+          "name": "Tropicales",
+          "description": "",
+          "price_crc": 1500
+        },
+        {
+          "name": "Gaseosas (Coca Cola Regular, Zero, Fresca, Ginger Ale, Soda)",
+          "description": "",
+          "price_crc": 1500
+        },
+        {
+          "name": "Agua Tónica Evervess",
+          "description": "",
+          "price_crc": 1800
+        },
+        {
+          "name": "Agua Tónica sin azúcar Vichy Catalán",
+          "description": "",
+          "price_crc": 2200
+        },
+        {
+          "name": "Agua San Peregrino",
+          "description": "Agua gasificada. 250ml",
+          "price_crc": 1800
+        }
+      ]
+    },
+    {
+      "name": "Carta de Vinos",
+      "items": [
+        {
+          "name": "Copa de Vino (Blanco, Merlot, Cabernet Sauvignon)",
+          "description": "",
+          "price_crc": 3500
+        },
+        {
+          "name": "Vigneti del Sole Botella",
+          "description": "Pinot Grigio, Veneto Italia",
+          "price_crc": 12000
+        },
+        {
+          "name": "Pasqua Passimento Bianco Botella",
+          "description": "Garganega, Veneto Italia",
+          "price_crc": 19250
+        },
+        {
+          "name": "Pasqua Passimento Rosso Botella",
+          "description": "Merlot, Corvina &amp; Croatina, Veneto, Italia",
+          "price_crc": 19250
+        },
+        {
+          "name": "Muga Rosado Botella",
+          "description": "Gamacha Tinta, Viura y Tempranillo",
+          "price_crc": 15400
+        },
+        {
+          "name": "Cono Sur Tocornal Botella",
+          "description": "Merlot, Valle Centra, Chile",
+          "price_crc": 12000
+        },
+        {
+          "name": "Cono Sur Tocornal Botella",
+          "description": "Cabernet Sauvignon, Valle Central, Chile",
+          "price_crc": 12000
+        },
+        {
+          "name": "Cono Sur Bicicleta Botella",
+          "description": "Pinot Noir, Chile",
+          "price_crc": 15400
+        },
+        {
+          "name": "Pasqua Botella",
+          "description": "Montepulciano d\"Abruzzo, DOC, Italia",
+          "price_crc": 15400
+        },
+        {
+          "name": "Familia Schroeder Saurus Botella",
+          "description": "Malbec, Neuquén (Patagonia) Argentina.",
+          "price_crc": 15400
+        },
+        {
+          "name": "Familia Schroeder Saurus Botella",
+          "description": "Merlot, Neuquén (Patagonia) Argentina",
+          "price_crc": 15400
+        },
+        {
+          "name": "Eguren Protocolo Tinto Botella",
+          "description": "Tempranillo, Vino de la Tierra de Castilla, España",
+          "price_crc": 15400
+        },
+        {
+          "name": "Cuvelier Los Andes Colección Botella",
+          "description": "Malbec, Cabernet Sauvignon, Merlot, Syrah &amp; Petit Verdot, Mendoza, Argentina",
+          "price_crc": 32000
+        },
+        {
+          "name": "Emilio Moro Finca Resalso Botella",
+          "description": "Tinto Fino, Ribera del Duero, España",
+          "price_crc": 21000
+        },
+        {
+          "name": "Emilio Moro",
+          "description": "Tinto Fino, Ribera del Duero, España",
+          "price_crc": 32000
+        }
+      ]
+    },
+    {
+      "name": "Cocteles",
+      "items": [
+        {
+          "name": "Aperol Spritz",
+          "description": "",
+          "price_crc": 4500
+        },
+        {
+          "name": "Campari Spritz",
+          "description": "",
+          "price_crc": 4500
+        },
+        {
+          "name": "Ron Tropical",
+          "description": "",
+          "price_crc": 4500
+        },
+        {
+          "name": "Piña Colada",
+          "description": "",
+          "price_crc": 4500
+        },
+        {
+          "name": "Daiquirí Fresa",
+          "description": "",
+          "price_crc": 4500
+        },
+        {
+          "name": "Whisky Old Fashioned",
+          "description": "",
+          "price_crc": 4500
+        },
+        {
+          "name": "Whisky New York Sour",
+          "description": "",
+          "price_crc": 4500
+        },
+        {
+          "name": "Vodka Pasitrán",
+          "description": "",
+          "price_crc": 4500
+        },
+        {
+          "name": "Vodka Star Martini",
+          "description": "",
+          "price_crc": 4500
+        },
+        {
+          "name": "Cosmopolitan",
+          "description": "",
+          "price_crc": 4500
+        },
+        {
+          "name": "Bloody Mary",
+          "description": "",
+          "price_crc": 4500
+        },
+        {
+          "name": "Negroni Clásico",
+          "description": "",
+          "price_crc": 4500
+        }
+      ]
+    },
+    {
+      "name": "Licores Tragos",
+      "items": [
+        {
+          "name": "Cacique shot",
+          "description": "",
+          "price_crc": 1500
+        },
+        {
+          "name": "Hpnotiq shot",
+          "description": "",
+          "price_crc": 2500
+        },
+        {
+          "name": "Jaggermeister shot",
+          "description": "",
+          "price_crc": 2500
+        },
+        {
+          "name": "Limoncello shot",
+          "description": "",
+          "price_crc": 2500
+        },
+        {
+          "name": "Ginebra Hendricks shot",
+          "description": "",
+          "price_crc": 3000
+        },
+        {
+          "name": "Baileys shot",
+          "description": "",
+          "price_crc": 2500
+        },
+        {
+          "name": "Whisky Johnny Black shot",
+          "description": "",
+          "price_crc": 3500
+        },
+        {
+          "name": "Whisky Johnny Double Black shot",
+          "description": "",
+          "price_crc": 4000
+        },
+        {
+          "name": "Whisky Old Parr shot",
+          "description": "",
+          "price_crc": 3500
+        },
+        {
+          "name": "Whisky Jameson shot",
+          "description": "",
+          "price_crc": 3000
+        },
+        {
+          "name": "Whisky Jameson Black Barrel shot",
+          "description": "",
+          "price_crc": 4000
+        },
+        {
+          "name": "Vodka Absolute shot",
+          "description": "",
+          "price_crc": 2500
+        },
+        {
+          "name": "Ron Flor de Caña shot",
+          "description": "",
+          "price_crc": 2500
+        },
+        {
+          "name": "Ron Appleton shot",
+          "description": "",
+          "price_crc": 2500
+        }
+      ]
+    }
+  ]
+}
