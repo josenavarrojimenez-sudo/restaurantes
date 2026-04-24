@@ -1,0 +1,226 @@
+{
+  "woods": {
+    "name": "Woods",
+    "category": "Pizzas",
+    "price_crc": 13800,
+    "image_file": "woods_014.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_014.jpeg"
+  },
+  "hummus": {
+    "name": "Hummus",
+    "category": "Antipastos",
+    "price_crc": 6000,
+    "image_file": "woods_001.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_001.jpeg"
+  },
+  "res": {
+    "name": "Res",
+    "category": "Carpaccios",
+    "price_crc": 8400,
+    "image_file": "woods_003.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_003.jpeg"
+  },
+  "atún": {
+    "name": "Atún",
+    "category": "Carpaccios",
+    "price_crc": 7800,
+    "image_file": "woods_004.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_004.jpeg"
+  },
+  "salmón fresco": {
+    "name": "Salmón Fresco",
+    "category": "Carpaccios",
+    "price_crc": 8500,
+    "image_file": "woods_005.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_005.jpeg"
+  },
+  "salmón ahumado": {
+    "name": "Salmón Ahumado",
+    "category": "Carpaccios",
+    "price_crc": 11300,
+    "image_file": "woods_006.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_006.jpeg"
+  },
+  "hongos": {
+    "name": "Hongos",
+    "category": "Carpaccios",
+    "price_crc": 7850,
+    "image_file": "woods_007.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_007.jpeg"
+  },
+  "rolatín de salmón ahumado": {
+    "name": "Rolatín de Salmón Ahumado",
+    "category": "Carpaccios",
+    "price_crc": 16900,
+    "image_file": "woods_008.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_008.jpeg"
+  },
+  "caprese": {
+    "name": "Caprese",
+    "category": "Ensaladas",
+    "price_crc": 6400,
+    "image_file": "woods_010.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_010.jpeg"
+  },
+  "greca": {
+    "name": "Greca",
+    "category": "Pizzas",
+    "price_crc": 7800,
+    "image_file": "woods_033.webp",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_033.webp"
+  },
+  "verde": {
+    "name": "Verde",
+    "category": "Ensaladas",
+    "price_crc": 4800,
+    "image_file": "woods_012.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_012.jpeg"
+  },
+  "césar con pollo": {
+    "name": "César Con Pollo",
+    "category": "Ensaladas",
+    "price_crc": 9800,
+    "image_file": "woods_013.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_013.jpeg"
+  },
+  "napoletana": {
+    "name": "Napoletana",
+    "category": "Pizzas",
+    "price_crc": 8200,
+    "image_file": "woods_015.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_015.jpeg"
+  },
+  "margarita": {
+    "name": "Margarita",
+    "category": "Pizzas",
+    "price_crc": 7800,
+    "image_file": "woods_016.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_016.jpeg"
+  },
+  "prosciutto cotto": {
+    "name": "Prosciutto Cotto",
+    "category": "Pizzas",
+    "price_crc": 9200,
+    "image_file": "woods_017.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_017.jpeg"
+  },
+  "romana": {
+    "name": "Romana",
+    "category": "Pizzas",
+    "price_crc": 10200,
+    "image_file": "woods_018.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_018.jpeg"
+  },
+  "prosciutto crudo": {
+    "name": "Prosciutto Crudo",
+    "category": "Pizzas",
+    "price_crc": 10600,
+    "image_file": "woods_019.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_019.jpeg"
+  },
+  "prosciutto, arúgula &amp; parmigiano": {
+    "name": "Prosciutto, Arúgula &amp; Parmigiano",
+    "category": "Pizzas",
+    "price_crc": 12900,
+    "image_file": "woods_020.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_020.jpeg"
+  },
+  "salame": {
+    "name": "Salame",
+    "category": "Pizzas",
+    "price_crc": 9200,
+    "image_file": "woods_021.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_021.jpeg"
+  },
+  "salame picante": {
+    "name": "Salame Picante",
+    "category": "Pizzas",
+    "price_crc": 9200,
+    "image_file": "woods_022.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_022.jpeg"
+  },
+  "scamorza &amp; salsiccia": {
+    "name": "Scamorza &amp; Salsiccia",
+    "category": "Pizzas",
+    "price_crc": 9800,
+    "image_file": "woods_023.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_023.jpeg"
+  },
+  "salsiccia": {
+    "name": "Salsiccia",
+    "category": "Pizzas",
+    "price_crc": 8400,
+    "image_file": "woods_024.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_024.jpeg"
+  },
+  "salsiccia picante": {
+    "name": "Salsiccia Picante",
+    "category": "Pizzas",
+    "price_crc": 8400,
+    "image_file": "woods_025.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_025.jpeg"
+  },
+  "funghi &amp; salsiccia": {
+    "name": "Funghi &amp; Salsiccia",
+    "category": "Pizzas",
+    "price_crc": 9200,
+    "image_file": "woods_026.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_026.jpeg"
+  },
+  "cuatro estaciones": {
+    "name": "Cuatro Estaciones",
+    "category": "Pizzas",
+    "price_crc": 8600,
+    "image_file": "woods_027.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_027.jpeg"
+  },
+  "cuatro quesos": {
+    "name": "Cuatro Quesos",
+    "category": "Pizzas",
+    "price_crc": 9200,
+    "image_file": "woods_028.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_028.jpeg"
+  },
+  "gamberi": {
+    "name": "Gamberi",
+    "category": "Pizzas",
+    "price_crc": 9600,
+    "image_file": "woods_029.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_029.jpeg"
+  },
+  "funghi": {
+    "name": "Funghi",
+    "category": "Pizzas",
+    "price_crc": 10400,
+    "image_file": "woods_030.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_030.jpeg"
+  },
+  "capricciosa": {
+    "name": "Capricciosa",
+    "category": "Pizzas",
+    "price_crc": 10400,
+    "image_file": "woods_031.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_031.jpeg"
+  },
+  "pepperoni": {
+    "name": "Pepperoni",
+    "category": "Pizzas",
+    "price_crc": 8900,
+    "image_file": "woods_032.jpeg",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_032.jpeg"
+  },
+  "vegetales": {
+    "name": "Vegetales",
+    "category": "Pizzas",
+    "price_crc": 8000,
+    "image_file": "woods_034.webp",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_034.webp"
+  },
+  "hawaiiana": {
+    "name": "Hawaiiana",
+    "category": "Pizzas",
+    "price_crc": 9900,
+    "image_file": "woods_035.webp",
+    "image_path": "woods-pizza/uber-eats/imagenes/woods_035.webp"
+  }
+}
