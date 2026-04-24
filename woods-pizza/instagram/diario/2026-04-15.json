@@ -1,0 +1,95 @@
+{
+  "_nota": "Este archivo se actualiza diariamente. Flavia debe leer este archivo para conocer las promociones VIGENTES. Solo se incluyen cosas vigentes o futuras, NO cosas que ya pasaron.",
+  "_ultima_actualizacion": "2026-04-15T23:15:00Z",
+  "_proxima_actualizacion": "2026-04-16T08:00:00Z",
+  "_fuente": "https://www.instagram.com/woodscr/",
+  "_agente_scraping": "Prolix",
+  "_agente_consumo": "Flavia",
+  "_regla": "SOLO incluir promociones, ofertas y actividades VIGENTES o que van a suceder. NO incluir lo que ya pasó.",
+
+  "restaurante": {
+    "nombre": "Woods Pizza a la Leña",
+    "instagram": "@woodscr",
+    "marcas": ["Woods Pizza a la Leña", "Woods Pizza & Beer Garden", "Woods Culture"],
+    "ubicaciones": [
+      {"nombre": "Cartago"},
+      {"nombre": "Villa Verde"},
+      {"nombre": "Pinares"}
+    ],
+    "contacto": {
+      "telefono": "8626-3988",
+      "tipo": "Reservaciones / Entradas"
+    }
+  },
+
+  "horarios": {
+    "lunes": {"estado": "CERRADO", "horas": null},
+    "martes": {"estado": "ABIERTO", "horas": "4:00 PM - 10:00 PM"},
+    "miercoles": {"estado": "ABIERTO", "horas": "4:00 PM - 10:00 PM"},
+    "jueves": {"estado": "ABIERTO", "horas": "4:00 PM - 10:00 PM"},
+    "viernes": {"estado": "ABIERTO", "horas": "12:00 MD - 11:00 PM"},
+    "sabado": {"estado": "ABIERTO", "horas": "12:00 MD - 11:00 PM"},
+    "domingo": {"estado": "ABIERTO", "horas": "12:00 MD - 9:00 PM"}
+  },
+
+  "promociones_vigentes": [
+    {
+      "id": "promo_001",
+      "tipo": "evento_musical",
+      "nombre": "Concierto Passiflora",
+      "fecha": "2026-04-19",
+      "dia_semana": "Domingo",
+      "hora": "5:30 PM",
+      "lugar": "Woods Villa Verde",
+      "artista_principal": "Passiflora",
+      "artista_invitado": "Gabriel Loynaz",
+      "precios": [
+        {"tipo": "Preventa", "monto": 7000, "moneda": "CRC"},
+        {"tipo": "En puerta", "monto": 8000, "moneda": "CRC"}
+      ],
+      "telefono_reservaciones": "8626-3988",
+      "estado": "VIGENTE",
+      "imagen": "profile_3_20260415_230125.jpg",
+      "descripcion_para_flavia": "¡Este domingo 19 de abril tenemos concierto de Passiflora en Woods Villa Verde a las 5:30 PM! Con artista invitado Gabriel Loynaz. Preventa a ₡7,000 y en puerta ₡8,000. Llamá al 8626-3988 para reservar."
+    },
+    {
+      "id": "promo_002",
+      "tipo": "cierre_temporal",
+      "nombre": "Cerrado Semana Santa",
+      "fecha_inicio": "2026-04-28",
+      "fecha_fin": "2026-05-03",
+      "descripcion_corta": "Cerrados del lunes 28 de abril al viernes 3 de mayo",
+      "descripcion_larga": "Estaremos CERRADOS del lunes 28 de abril al viernes 3 de mayo por Semana Santa. Reabrimos el sábado 4 de mayo.",
+      "estado": "PROXIMO",
+      "imagen": "profile_5_20260415_230125.jpg",
+      "descripcion_para_flavia": "¡Ojo! Vamos a estar cerrados del lunes 28 de abril al viernes 3 de mayo por Semana Santa. Pero reabrimos el sábado 4 de mayo con todo."
+    }
+  ],
+
+  "menu_destacado": {
+    "_nota": "Información extraída de Instagram. Actualizar cuando haya más datos del menú.",
+    "pizza_destacada": {
+      "nombre": "Pizza Gambas",
+      "descripcion": "Pizza con camarones",
+      "mencion_en_alt_text": "Si querés probar algo diferente… Nuestra Pizza Gambas"
+    }
+  },
+
+  "guia_flavia": {
+    "instrucciones": [
+      "Leé este archivo CADA DÍA antes de atender clientes.",
+      "Solo ofrecé información VIGENTE. No menciones eventos o promociones que ya pasaron.",
+      "Si preguntan por el evento de Passiflora, decí que es este domingo 19 de abril.",
+      "Si preguntan por horarios, da los de las 3 ubicaciones.",
+      "AVISÁ que cerramos Semana Santa del 28 de abril al 3 de mayo.",
+      "Para reservaciones o entradas, el teléfono es 8626-3988."
+    ],
+    "respuestas_sugeridas": {
+      "evento_pasiflora": "¡Este domingo 19 de abril tenemos concierto de Passiflora en Woods Villa Verde a las 5:30 PM! Con Gabriel Loynaz como artista invitado. Preventa a ₡7,000 y en puerta ₡8,000. Llamá al 8626-3988 para entradas.",
+      "horarios": "Nuestros horarios son: martes a jueves de 4 PM a 10 PM, viernes y sábado de 12 MD a 11 PM, y domingo de 12 MD a 9 PM. Estamos en Cartago, Villa Verde y Pinares. ¡Los lunes cerrados!",
+      "semana_santa": "¡Ojo! Vamos a estar cerrados del lunes 28 de abril al viernes 3 de mayo por Semana Santa. ¡Reabrimos el sábado 4 de mayo!",
+      "pizza_gambas": "¡Si querés probar algo diferente, te recomendamos nuestra Pizza Gambas! Es una pizza deliciosa con camarones frescos.",
+      "promociones_pasadas": "No tengo información de promociones pasadas. ¿Te puedo ayudar con algo vigente? Tenemos el concierto de Passiflora este domingo y nuestros horarios habituales."
+    }
+  }
+}

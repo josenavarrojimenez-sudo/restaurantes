@@ -1,0 +1,63 @@
+{
+  "scraped_at": "2026-04-15T22:53:59.395833",
+  "source": "https://www.instagram.com/woodscr/",
+  "methods_tried": [
+    "greatfon",
+    "instastalk",
+    "embed_deep_click"
+  ],
+  "posts_found": 0,
+  "posts": [],
+  "images_downloaded": 7,
+  "images": [
+    {
+      "file": "greatfon_3_20260415_225328.jpg",
+      "size_kb": 19,
+      "alt": "Instagram Story Viewer",
+      "url": "https://dumpor.io/images/dumpor-hero2-dark-512w.jpg",
+      "source": "greatfon"
+    },
+    {
+      "file": "greatfon_8_20260415_225328.jpg",
+      "size_kb": 5,
+      "alt": "virat.kohli",
+      "url": "https://cdn2.dumpor.io/a/d451b27f-f7e2-4057-97b0-f01d58122e03.jpg",
+      "source": "greatfon"
+    },
+    {
+      "file": "greatfon_9_20260415_225328.jpg",
+      "size_kb": 5,
+      "alt": "lilbieber",
+      "url": "https://cdn2.dumpor.io/a/fc3504b2-e172-4cb8-834c-b57ef35da261.jpg",
+      "source": "greatfon"
+    },
+    {
+      "file": "greatfon_11_20260415_225328.jpg",
+      "size_kb": 167,
+      "alt": "kingjames",
+      "url": "https://cdn2.dumpor.io/a/b782b572-05cd-42dc-90db-72f9f7003042.jpg",
+      "source": "greatfon"
+    },
+    {
+      "file": "greatfon_12_20260415_225328.jpg",
+      "size_kb": 59,
+      "alt": "billieeilish",
+      "url": "https://cdn2.dumpor.io/a/befd1f7b-79c5-4c35-b3ac-d484a3fae05b.jpg",
+      "source": "greatfon"
+    },
+    {
+      "file": "greatfon_13_20260415_225328.jpg",
+      "size_kb": 100,
+      "alt": "khaby00",
+      "url": "https://cdn2.dumpor.io/a/5ee86185-0936-4e90-baf0-37d1c872436c.jpg",
+      "source": "greatfon"
+    },
+    {
+      "file": "greatfon_more_14_20260415_225328.jpg",
+      "size_kb": 2086,
+      "alt": "Anonymous Instagram Viewer Privacy: Best Practices to Stay Invisible",
+      "url": "https://dumpor.io/images/0ddb0000-775a-4f88-83af-ed8f971aaebe.jpg",
+      "source": "greatfon"
+    }
+  ]
+}

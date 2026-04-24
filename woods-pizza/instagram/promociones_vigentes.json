@@ -1,0 +1,134 @@
+{
+  "scraped_at": "2026-04-15T22:55:00Z",
+  "source": "https://www.instagram.com/woodscr/",
+  "profile": {
+    "username": "woodscr",
+    "name": "Woods Pizza a la Leña",
+    "followers": 43200,
+    "posts_count": 630,
+    "locations": ["Cartago", "Villa Verde", "Pinares"],
+    "brands": ["Woods Pizza a la Leña", "Woods Pizza & Beer Garden", "Woods Culture"],
+    "contact": {
+      "phone": "8626-8988",
+      "purpose": "Reservaciones / Entradas"
+    }
+  },
+  "horarios": {
+    "lunes": "Cerrado",
+    "martes_a_jueves": "4:00 PM - 10:00 PM",
+    "viernes_y_sabado": "12:00 MD - 11:00 PM",
+    "domingo": "12:00 MD - 9:00 PM",
+    "notas": "Ubicaciones: Cartago • Villa Verde • Pinares"
+  },
+  "promociones_activas": [
+    {
+      "tipo": "evento_musical",
+      "nombre": "Passiflora en Concierto",
+      "fecha": "Domingo 19 de Abril",
+      "hora": "5:30 PM",
+      "lugar": "Woods Villa Verde",
+      "artista_principal": "Passiflora",
+      "artista_invitado": "Gabriel Loynaz",
+      "precios": {
+        "preventa": 7000,
+        "en_puerta": 8000,
+        "moneda": "CRC"
+      },
+      "contacto_reservaciones": "8626-8988",
+      "estado": "VIGENTE",
+      "imagen": "embed_2_20260415_224652.jpg"
+    },
+    {
+      "tipo": "sorteo",
+      "nombre": "Sorteo Woods Culture",
+      "ganador": "@johelm",
+      "premios": [
+        "IGLOO Cooler 62qt (9L) - mantiene hielo 5 días",
+        "Gorra Woods Culture (navy blue)",
+        "Estadía en Casa Aribá (propiedad con piscina, billar, áreas de descanso)"
+      ],
+      "estado": "FINALIZADO - Ganador anunciado",
+      "imagen": "embed_4_20260415_224652.jpg"
+    }
+  ],
+  "avisos_especiales": [
+    {
+      "tipo": "cierre_temporal",
+      "nombre": "Cerrado Semana Santa",
+      "fechas": "Lunes 30 de Abril a Viernes 3 de Mayo",
+      "descripcion": "CERRADO en Semana Santa - De lunes 30 a viernes 03",
+      "estado": "VIGENTE",
+      "imagen": "embed_5_20260415_224652.jpg"
+    },
+    {
+      "tipo": "celebracion",
+      "nombre": "Día Mundial del Arte",
+      "fecha": "15 de Abril",
+      "mensaje": "El arte nos mueve",
+      "estado": "PASADO",
+      "imagen": "embed_7_20260415_224652.jpg"
+    }
+  ],
+  "posts_recientes": [
+    {
+      "numero": 1,
+      "descripcion": "Día Mundial del Arte - 'El arte nos mueve' - 15 de abril",
+      "tipo": "celebracion",
+      "imagen": "embed_7_20260415_224652.jpg"
+    },
+    {
+      "numero": 2,
+      "descripcion": "Concierto Passiflora - Domingo 19 abril - Preventa ₡7,000 / Puerta ₡8,000",
+      "tipo": "evento",
+      "imagen": "embed_2_20260415_224652.jpg"
+    },
+    {
+      "numero": 3,
+      "descripcion": "Horarios - Cartago • Villa Verde • Pinares - Mar-Jue 4-10pm, Vie-Sáb 12-11pm, Dom 12-9pm",
+      "tipo": "informacion",
+      "imagen": "embed_3_20260415_224652.jpg"
+    },
+    {
+      "numero": 4,
+      "descripcion": "Ganador del sorteo @johelm - Premios: IGLOO Cooler, Gorra Woods Culture, Estadía Casa Aribá",
+      "tipo": "sorteo",
+      "imagen": "embed_4_20260415_224652.jpg"
+    },
+    {
+      "numero": 5,
+      "descripcion": "Post oscuro/video (posiblemente Reel)",
+      "tipo": "video",
+      "imagen": null
+    },
+    {
+      "numero": 6,
+      "descripcion": "Cerrado Semana Santa - Lunes 30 a Viernes 03",
+      "tipo": "cierre",
+      "imagen": "embed_5_20260415_224652.jpg"
+    }
+  ],
+  "imagenes_disponibles": [
+    {"file": "embed_2_20260415_224652.jpg", "descripcion": "Evento Passiflora - Concierto con precios", "size_kb": 113},
+    {"file": "embed_3_20260415_224652.jpg", "descripcion": "Horarios de Woods Pizza - 3 ubicaciones", "size_kb": 201},
+    {"file": "embed_4_20260415_224652.jpg", "descripcion": "Ganador del sorteo @johelm", "size_kb": 132},
+    {"file": "embed_5_20260415_224652.jpg", "descripcion": "Cerrado Semana Santa", "size_kb": 183},
+    {"file": "embed_7_20260415_224652.jpg", "descripcion": "Día Mundial del Arte", "size_kb": 163}
+  ],
+  "instrucciones_para_flavia": {
+    "actualizar_diariamente": true,
+    "borrar_datos_mayores_a_15_dias": true,
+    "promociones_incluir": [
+      "Eventos musicales y conciertos",
+      "Precios especiales (preventa vs puerta)",
+      "Sorteos activos",
+      "Horarios y ubicaciones",
+      "Cierres temporales",
+      "Celebraciones especiales",
+      "Promociones de comida",
+      "Menú especial del día"
+    ],
+    "formato_respuesta_flavia": "Cuando un cliente pregunte por promociones, Flavia debe ofrecer la información más reciente disponible. Si hay un evento vigente como el concierto de Passiflora, mencionar preventa y precio en puerta. Si preguntan por horarios, dar los 3 locales con sus horarios. Si hay cierre temporal (como Semana Santa), mencionarlo primero.",
+    "contacto_verificacion": "8626-8988 para confirmar promociones",
+    "datos_para_flavia_contexto": "Woods Pizza a la Leña es una pizzería con 3 ubicaciones en Costa Rica (Cartago, Villa Verde, Pinares). Tiene 43,200 seguidores en Instagram. Los horarios son: Lun cerrado, Mar-Jue 4-10pm, Vie-Sáb 12-11pm, Dom 12-9pm. Actualmente tienen un concierto de Passiflora el domingo 19 de abril con preventa ₡7,000 y puerta ₡8,000. Estarán cerrados Semana Santa del 30 de abril al 3 de mayo."
+  }
+}
