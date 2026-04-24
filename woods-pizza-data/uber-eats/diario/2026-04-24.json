@@ -1,0 +1,22 @@
+{
+  "restaurant": "Woods Pizza a la Leña Cartago",
+  "url": "https://www.ubereats.com/cr/store/woods-pizza-a-la-lena-cartago/Pa5077jjWT-XgqODtJOO8Q",
+  "date_scraped": "2026-04-24",
+  "total_categories": 12,
+  "total_products": 86,
+  "total_images": 36,
+  "categories": [
+    "Pizza",
+    "Antipastos",
+    "Carpaccios",
+    "Ensaladas",
+    "Panini",
+    "Calzone",
+    "Stromboli",
+    "Focaccia",
+    "Wraps",
+    "Postres",
+    "Bebidas",
+    "Bebidas alcohólicas"
+  ]
+}
