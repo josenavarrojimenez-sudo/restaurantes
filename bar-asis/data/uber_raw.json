@@ -1,0 +1,922 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/cr/store/asis-sports-bar/oxRhSyArQ7q1jOqCJCsHMQ",
+  "name": "Asis Sports Bar",
+  "servesCuisine": [
+    "Americana",
+    "Latinoamericana",
+    "Pescados y mariscos",
+    "Alitas",
+    "Bebidas",
+    "Exclusivo de Uber Eats"
+  ],
+  "priceRange": "€",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/04820066e9f507163747834844192848/97ef7458dde62fa918635bc21265d9f5.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/04820066e9f507163747834844192848/a70f5c9df440d10213e93244e9eb7cad.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/04820066e9f507163747834844192848/97e6648b3593c29cb4a6335f976e6d84.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/04820066e9f507163747834844192848/93b5fd796682c6d5302cd5bec164fe90.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/04820066e9f507163747834844192848/719c6bd2757b08684c0faae44d43159d.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/04820066e9f507163747834844192848/3ac2b39ad528f8c8c5dc77c59abb683d.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/cr/store/asis-sports-bar/oxRhSyArQ7q1jOqCJCsHMQ?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "Español",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet",
+      "http://purl.org/goodrelations/v1#DeliveryModePickUp"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Oriental",
+    "addressRegion": "",
+    "postalCode": "30101",
+    "addressCountry": "CR",
+    "streetAddress": "Costado Sureste de la Plaza Asis, Cartago, Cartago 30301 Costa Rica"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 9.8595696,
+    "longitude": -83.9210251
+  },
+  "telephone": "+50688288286",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.6,
+    "reviewCount": 5000
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Sunday",
+      "opens": "11:00",
+      "closes": "17:15"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "11:00",
+      "closes": "22:30"
+    }
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": [
+      {
+        "@type": "MenuSection",
+        "name": "LO FAVORITO",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Chifri Asis",
+            "description": "Tradicional chifri Asis costarricense con arroz, frijoles tiernos, chicharrón, pico de gallo fresco, aguacate, un toque de jalapeño y acompañado de doraditas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Nachos",
+            "description": "Doraditas crujientes cubiertas con frijoles molidos, carne mechada o pollo, queso amarillo derretido, lechuga fresca, pico de gallo y un toque de jalapeño.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7400.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Alitas Asis",
+            "description": "Cuatro alitas crujientes y jugosas, acompañadas de la salsa de tu preferencia.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tacos",
+            "description": "Tortilla de harina frita, rellena de carne de res mechada, acompañado de repollo, salsa de tomate y mayonesa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Adicionales",
+            "description": "Adicionales que te ofrecemos",
+            "offers": {
+              "@type": "Offer",
+              "price": "1000.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "BOCAS",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Chifri Asis",
+            "description": "Tradicional chifri Asis costarricense con arroz, frijoles tiernos, chicharrón, pico de gallo fresco, aguacate, un toque de jalapeño y acompañado de doraditas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Alitas Asis",
+            "description": "Cuatro alitas crujientes y jugosas, acompañadas de la salsa de tu preferencia.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tacos light",
+            "description": "Tres tacos de tortilla de harina rellenos con la proteína de tu elección, repollo fresco, piña dulce, aguacate y pico de gallo, con nuestra salsa especial de la casa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6300.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fajitas de pollo empanizadas",
+            "description": "Crujientes fajitas de pollo acompañadas de papas fritas y una salsa de tu preferencia.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Dados de Queso",
+            "description": "Crujientes dados de queso empanizados, acompañados de papas fritas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Costilla BBQ",
+            "description": "Jugosa costilla en salsa BBQ, acompañada de frijoles molidos, pico de gallo fresco, papas fritas y doraditas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Papas Locas Carne-Pollo",
+            "description": "Una Deliciosa Boca que combina, frijoles molidos, carne mechada o pollo mechada, queso cheddar y pico de gallo",
+            "offers": {
+              "@type": "Offer",
+              "price": "6300.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Super Hamburguesa Asis",
+            "description": "Hamburguesa en pan fresco con la proteína de tu preferencia (filete pollo , filete de pescado o carne jugosa), acompañada de papas fritas y nuestra salsa especial de la casa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Carne Mexicana",
+            "description": "Nuestra especialidad de la casa: carne mexicana, bien sazonada, servida con tortillitas tostadas para acompañar.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4700.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Asis Shrimp Bowl",
+            "description": "Tres canastas rellena con camarón frescos, acompañadas de aguacate, pico de gallo, cebolla morada y con nuestra salsa especial de la casa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5300.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mozzarella Sticks",
+            "description": "5 dedos de queso empanizados con una salsa pomodoro",
+            "offers": {
+              "@type": "Offer",
+              "price": "5200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Patacón pisao",
+            "description": "Dos patacones crujientes cubiertos con frijoles molidos, queso mozzarella derretido y nuestra salsa especial de la casa, acompañado de pico de gallo fresco y doraditas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5400.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pechuga (empanizada o a la plancha)",
+            "description": "Deliciosa pechuga de pollo que puede ser empanizada o a la plancha (salsa a escoger)",
+            "offers": {
+              "@type": "Offer",
+              "price": "5400.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Patacón ceviche",
+            "description": "Crujientes canastas de patacón rellenas de guacamole y ceviche de pescado fresco, coronadas con cebolla morada y cilantro.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gordon Bleu",
+            "description": "Delicioso gordon bleu acompañado de la salsa de tu preferencia, con 2 acompañamientos a elegir",
+            "offers": {
+              "@type": "Offer",
+              "price": "6400.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Hamburguesa Asis",
+            "description": "Hamburguesa con pan suave, jugosa torta de carne, lechuga fresca, tomate, salsa de tomate, mayonesa, jamón y queso amarillo derretido. Acompañada de papas fritas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tacos",
+            "description": "Tortilla de harina frita, rellena de carne de res mechada, acompañado de repollo, salsa de tomate y mayonesa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Nachos",
+            "description": "Doraditas crujientes cubiertas con frijoles molidos, carne mechada o pollo, queso amarillo derretido, lechuga fresca, pico de gallo y un toque de jalapeño.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7400.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Dedos de pescado",
+            "description": "Dedos de pescado empanizados, acompañados de papas fritas doradas y nuestra clásica salsa tártara.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5700.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Papas Locas Mixtas",
+            "description": "Una Deliciosa Boca que combina, frijoles molidos, carne mechada y pollo mechado, queso cheddar y pico de gallo",
+            "offers": {
+              "@type": "Offer",
+              "price": "6600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Costilla",
+            "description": "Deliciosa costilla acompañada de yuca",
+            "offers": {
+              "@type": "Offer",
+              "price": "5900.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Patacón pizao de mariscos",
+            "description": "Patacón, guacamole y mariscada, acompañado de nuestra popular salsa de la casa (deliciosa combinación de tomate y especias naturales)",
+            "offers": {
+              "@type": "Offer",
+              "price": "6000.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chorizo",
+            "description": "Tres chorizos tostaditos, servidos con repollo fresco, rodajas de tomate y un toque de cilantro.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "PataBurguer",
+            "description": "Dos deliciosas  mini-hamburguesas hechas de patacones, torta de carne casera, papas en gajo de acompañamiento y una salsa a escoger(la salsa viene por aparte)",
+            "offers": {
+              "@type": "Offer",
+              "price": "5700.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fajitas mixtas",
+            "description": "Deliciosas fajitas de pollo y carne cocinadas con julianas de chile y cebolla, acompañadas de papas fritas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6000.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Enyucaditos",
+            "description": "Enyucados rellenos de Carne Mechada con ensalada y salsa rosada",
+            "offers": {
+              "@type": "Offer",
+              "price": "5200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Aros de Cebolla",
+            "description": "Aros de cebolla crujientes, servidos con nuestra salsa especial para acompañar.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4300.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Boca de Chicharrón",
+            "description": "Chicharrón jugoso acompañado de yuca frita dorada y crujiente y rodajas de limón para resaltar su sabor.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Nachos Mixtos",
+            "description": "Deliciosa combinación de carne y pollo mechado, en una cama de doraditas, lechuga y frijoles molidos bañado en salsa queso y pico de gallo.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7400.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Burrito",
+            "description": "Tortilla de trigo dorada y suave, rellena con frijoles molidos, queso blanco y la proteína de tu preferencia. Acompañada de ensalada fresca y natilla.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gallo Salchichon",
+            "description": "Tres deliciosos gallitos típicos, con repollo tomate y salchichón",
+            "offers": {
+              "@type": "Offer",
+              "price": "4000.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fajitas mixtas Asis con camarón",
+            "description": "Nuestras populares fajitas mixtas con pollo, carne, camarón, cebolla y chile dulce, preparadas al estilo Asís.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Quesadilla Camaron",
+            "description": "Tortilla Harina, Camarón, chile, cebolla, queso para freir, hongos.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6400.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chile Relleno",
+            "description": "Un jugoso chile dulce relleno de queso mozzarella y carne mechada, bañado con salsa española (a base de tomate) acompañado de arroz blanco fresco",
+            "offers": {
+              "@type": "Offer",
+              "price": "5600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Quesadilla Carne-Pollo",
+            "description": "Tortilla Harina, Carne o pollo(fajitas las 2 opciones), chile, cebolla, queso para freír, hongos",
+            "offers": {
+              "@type": "Offer",
+              "price": "5900.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Burrito Mixto",
+            "description": "Deliciosa tortilla de trigo rellena de pollo y carne acompañado de ensalada verde y natilla",
+            "offers": {
+              "@type": "Offer",
+              "price": "5800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fajitas de pollo o carne",
+            "description": "Deliciosas fajitas de pollo o carne cocinadas con julianas de chile y cebolla, acompañadas de papas fritas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chalupa",
+            "description": "Una crujiente tortilla de trigo, rellena de lechuga, frijolitos molidos, pico de gallo y la proteína de tu preferencia",
+            "offers": {
+              "@type": "Offer",
+              "price": "5000.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Wrap Pollo - Carne",
+            "description": "Bistec res o pollo plancha, lechuga, pepino, zanahoria, cebolla morada y salsa a escoger",
+            "offers": {
+              "@type": "Offer",
+              "price": "6200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Wrap Camaron",
+            "description": "Al ajillo o empanizado: Lechuga, pepino, zanahoria,cebolla morada y salsa a escoger",
+            "offers": {
+              "@type": "Offer",
+              "price": "6600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chalupa Mixta",
+            "description": "Una crujiente tortilla de trigo, rellena de lechuga, frijolitos molidos, pico de gallo, carne y pollo mechado.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Albóndigas",
+            "description": "3 albóndigas acompañadas de la salsa que gustes",
+            "offers": {
+              "@type": "Offer",
+              "price": "4400.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bistec Encebollado",
+            "description": "Dos acompañamientos Ensalada y Arroz",
+            "offers": {
+              "@type": "Offer",
+              "price": "5500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Camarones tempura",
+            "description": "10 deliciosos camarones tempura, acompañados de 100g de papas y salsa a escoger",
+            "offers": {
+              "@type": "Offer",
+              "price": "6500.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "CEVICHES",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Ceviche de pescado",
+            "description": "Fresco ceviche de pescado marinado en jugo de limón, acompañado de cebolla morada, chile, cilantro y un toque de jalapeño. Servido con aguacate y a elección: galleta soda o doraditas crujientes.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4900.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ceviche mixto",
+            "description": "Fresco ceviche de camarón y pescado marinado en jugo de limón, acompañado de cebolla morada, chile, cilantro y un toque de jalapeño. Servido con aguacate y a elección: galleta soda o doraditas crujientes.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ceviche de camarón",
+            "description": "Fresco ceviche de camarón marinado en jugo de limón, acompañado de cebolla morada, chile, cilantro y un toque de jalapeño. Servido con aguacate y a elección: galleta soda o doraditas crujientes.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5300.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "SOPAS",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Sopa de Pollo",
+            "description": "Deliciosa sopa de Pollo",
+            "offers": {
+              "@type": "Offer",
+              "price": "4900.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sopa azteca",
+            "description": "Deliciosa sopa de tomate, acompañada de tortillas fritas, queso y aguacate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5900.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sopa de Pescado",
+            "description": "Deliciosa sopa de Pescado",
+            "offers": {
+              "@type": "Offer",
+              "price": "4900.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sopa de mariscos",
+            "description": "A base de agua, conchas, surimi, pescado, camarón, pulpo, picadura, verduritas y arroz.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5900.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sopa de Carne",
+            "description": "Deliciosa sopa de Carne",
+            "offers": {
+              "@type": "Offer",
+              "price": "4900.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Sopa Negra",
+            "description": "Deliciosa sopa de frijoles negros, tradicional costarricense.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4600.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "ARROZ",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Arroz con camarón o a la marinera",
+            "description": "Arroz, camarones, picadura, papas, ensalada, arroz, mariscada (conchas, surimi, pescado, camarón, pulpo), picadura, papas y ensalada.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Arroz con pollo o carne",
+            "description": "Arroz, pollo o carne, picadura, papas, ensalada (lechuga y tomate).",
+            "offers": {
+              "@type": "Offer",
+              "price": "5200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Arroz con chicharrón",
+            "description": "Arroz, chicharrón, picadura, papas y ensalada (lechuga y tomate).",
+            "offers": {
+              "@type": "Offer",
+              "price": "6100.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "FILETES DE PESCADO",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Filete de pescado a la milanesa",
+            "description": "Acompañados de 2 guarniciones a elegir: arroz ,vegetales (zanahoria, brócoli, coliflor, zuquini), puré de papa, ensalada de lechuga y tomate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6300.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Filete a la plancha o al ajillo",
+            "description": "Acomapañado de 2 guarniciones a elegir: arroz, vegetales (zanahoria, brocoli, coliflor, zuquini), puré de papa, ensalada de lechuga y tomate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mariscada",
+            "description": "Deliciosa combinación de conchas, surimi, pescado, camarón, pulpo, preparados a la mantequilla o al ajillo. Acompañados de 2 guarniciones a elegir: arroz,vegetales (zanahoria, brócoli, coliflor, zuquini) ,puré de papa, ensalada de lechuga y tomate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Filet de Pescado Emp(Salsa camaron y Española)",
+            "description": "Delicioso Filet de Pescado Empanizado, con dos guarniciones pure y vegetales, a escoger cualquiera de las dos salsas",
+            "offers": {
+              "@type": "Offer",
+              "price": "6500.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "PLATOS FUERTES",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Ejecutivos",
+            "description": "Casados: Arroz, Frijoles Tiernos, Ensalada del día, Platano Maduro y La Proteína a Escoger.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5900.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Churrasco",
+            "description": "Acompañado con Papa Asada y Vegetales.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8900.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Canasta de chicharrón",
+            "description": "Chicharrón, jalapeño, yuca, pico de gallo, frijoles molidos y doraditas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7900.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Costilla BBQ",
+            "description": "Jugosa costilla en salsa BBQ, acompañada de frijoles molidos, pico de gallo fresco, papas fritas y doraditas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Surtido para 6 personas",
+            "description": "Un festín para compartir entre 6 personas. Incluye: 6 alitas jugosas, chorizos, chicharrón crujiente, costilla de cerdo, yuca frita, patacones, fajitas mixtas, aros de cebolla, dados de queso empanizados, dedos de pescado, frijoles molidos, pico de gallo fresco, doraditas y tortillas suaves. ¡El acompañamiento perfecto para disfrutar en grupo!",
+            "offers": {
+              "@type": "Offer",
+              "price": "35000.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Surtido de 10 Alas",
+            "description": "Delicioso surtido de 10 Alitas con papas a la francesa  3 salsas(bbq,mostaza miel y buffalo)",
+            "offers": {
+              "@type": "Offer",
+              "price": "11000.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Camaron al Gusto",
+            "description": "Deliciosos camarones preparados a tu gusto; empanizados, al ajillo o a la diabla. Acompañados de puré y vegetales frescos al vapor.  Perfecto para los amantes del marisco",
+            "offers": {
+              "@type": "Offer",
+              "price": "7400.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Surtido para 4 personas",
+            "description": "Un surtido perfecto para compartir en grupo. Incluye: 4 alitas jugosas, fajitas mixtas de res y pollo, chicharrón crujiente, costilla de cerdo, yuca frita, patacones, frijoles molidos, pico de gallo fresco y doraditas crocantes. Ideal para 4 personas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "26000.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "BEBIDAS",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Ginger Ale 600 ml",
+            "description": "Refresco clásico y refrescante.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1900.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coca Cola Zero 600ml",
+            "description": "Refresco clásico y refrescante.\nSin azúcar.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1900.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "ADAN Y EVA",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "2700.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Heineken",
+            "description": "Cerveza premium tipo lager.\nCon 330ml.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2700.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Corona",
+            "description": "Cerveza mexicana, suave y refrescante.\nCon 330ml.",
+            "offers": {
+              "@type": "Offer",
+              "price": "2700.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Coca Cola 600 ml",
+            "description": "Refresco clásico y refrescante.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1900.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
