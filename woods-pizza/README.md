@@ -10,7 +10,7 @@ Usar SOLO esta carpeta `woods-pizza/` para todo.
 woods-pizza/
 ├── web/
 │   ├── page.html              # Web propia (caroje.com)
-│   └── menu_completo.json     # 150 items, 15 categorias, precios CRC
+│   └── menu_completo.json     # 128 items, 15 categorias, precios CRC
 ├── uber-eats/
 │   ├── data/page.html         # HTML de Uber Eats
 │   ├── diario/2026-04-24.json # Datos Uber Eats
@@ -38,7 +38,7 @@ producto = indice.get('margarita')
 ```
 
 ## Stats
-- Menu web: 150 items, 15 categorias
+- Menu web: 128 items, 15 categorias
 - Uber Eats: 112 productos, 36 imagenes
 - Instagram: 35 imagenes
 - Productos con imagen: 32
