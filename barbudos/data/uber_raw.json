@@ -1,0 +1,894 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Restaurant",
+  "@id": "https://www.ubereats.com/cr/store/bar-y-restaurante-barbudos/_hKwTD2VRvar6gWxSr3RCw",
+  "name": "Bar Y Restaurante Barbudos",
+  "servesCuisine": [
+    "Americana",
+    "Sándwiches",
+    "Hamburguesas"
+  ],
+  "priceRange": "",
+  "image": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/2d3bfa1b8cb6361818706ad1470c3c80/ec1689ae3a25695f1b8e25c59bec5034.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/2d3bfa1b8cb6361818706ad1470c3c80/69ad85cd7b39888042b3bbf1c22d630d.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/2d3bfa1b8cb6361818706ad1470c3c80/1d4135bf27b924efdd528452baa17174.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/2d3bfa1b8cb6361818706ad1470c3c80/e0131c83be09a5694ebe179208a3825d.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/2d3bfa1b8cb6361818706ad1470c3c80/d24a30ada2fef6c54cef8739d94823b0.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/2d3bfa1b8cb6361818706ad1470c3c80/16bb0a3ab8ea98cfe8906135767f7bf4.jpeg"
+  ],
+  "potentialAction": {
+    "@type": "OrderAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.ubereats.com/cr/store/bar-y-restaurante-barbudos/_hKwTD2VRvar6gWxSr3RCw?utm_campaign=order-action&amp;utm_medium=organic",
+      "inLanguage": "Español",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    },
+    "deliveryMethod": [
+      "http://purl.org/goodrelations/v1#DeliveryModeOwnFleet",
+      "http://purl.org/goodrelations/v1#DeliveryModePickUp"
+    ]
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Occidental",
+    "addressRegion": "CR-C",
+    "postalCode": "30102",
+    "addressCountry": "CR",
+    "streetAddress": "Ofiplaza Boulevard"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 9.8562733,
+    "longitude": -83.9241867
+  },
+  "telephone": "+50661727216",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.8,
+    "reviewCount": 480
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday"
+      ],
+      "opens": "11:00",
+      "closes": "22:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "11:00",
+      "closes": "23:00"
+    }
+  ],
+  "hasMenu": {
+    "@type": "Menu",
+    "hasMenuSection": [
+      {
+        "@type": "MenuSection",
+        "name": "Wraps",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Wrap de pollo crispy",
+            "description": "Pollo estilo teriyaki, mezcla de quesos mezcla de lechugas, zanahoria cebolla morada y tomate cherry. Acompañamientos a elegir: papas gajo, papas fritas, camote fries o bowl de ensalada de la casa. Ensalada de la casa: receta secreta. Mezcla de lechugas: crespa y morada. Mezcla de quesos: mozarella,chedar,americano.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6150.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Wrap de res",
+            "description": "Carne de lomo, cocida con hongos cebolla y queso mozzarella, mezcla de lechugas, cebolla morada, zanahoria tomate cherry, mezcla de quesos y aderezo de aguacate. Acompañamientos a elegir: papas gajo, papas fritas, camote fries o bowl de ensalada de la casa. Ensalada de la casa: receta secreta. Mezcla de lechugas: crespa y morada. Mezcla de quesos: mozarella,chedar,americano.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6350.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Wrap de camarón",
+            "description": "Camarones empanizados, mezcla de lechugas, tomate cherry, mezcla de quesos cebolla morada y salsa chipotle.  Acompañamientos a elegir: papas gajo, papas fritas, camote fries o bowl de ensalada de la casa. Ensalada de la casa: receta secreta. Mezcla de lechugas: crespa y morada. Mezcla de quesos: mozarella,chedar,americano.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6750.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Tacos",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Tacos de pollo crispy",
+            "description": "Deliciosos trozos de pollo crispy, acompañados de nuestra mezcla de ensalada, tomate en gajos, mandarina y aguacate con aderezo de culantro servidos en una tortilla de harina. Acompañamientos a elegir: papas gajo, papas fritas, camote fries o bowl de ensalada de la casa. Ensalada de la casa: receta secreta.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6350.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tacos de lomo",
+            "description": "Carne de lomo salteada con hongos, cebolla y queso mozzarella, acompañados de nuestra mezcla de ensalada, tomate en gajos, mandarina y aguacate con aderezo de culantro servidos en una tortilla de harina. Acompañamientos a elegir: papas gajo, papas fritas, camote fries o bowl de ensalada de la casa. Ensalada de la casa: receta secreta.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6750.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Tacos de camarón empanizados",
+            "description": "Camarones empanizados, acompañados de nuestra mezcla de ensalada, tomate en gajos, mandarina y aguacate con aderezo de chipotle servidos en una torta de harina. Acompañamientos a elegir: papas gajo, papas fritas, camote fries o bowl de ensalada de la casa. Ensalada de la casa: receta secreta.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6850.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Pizzas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Pizza jamón y hongos",
+            "description": "Mezcla de quesos, jamón serrano, hongos frescos. Mezcla de quesos: mozarella,chedar,americano.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6900.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza margarita",
+            "description": "Mezcla de quesos, tomate en rodajas, orégano y albahaca. Mezcla de quesos: mozarella,chedar,americano.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6750.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza vegetariana",
+            "description": "Mezcla de quesos, cebolla tomate chile dulce, hongos, aceitunas. Mezcla de quesos: mozarella,chedar,americano.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6350.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza de camarones",
+            "description": "Mezcla de quesos, camarones, cebolla morada. Mezcla de quesos: mozarella,chedar,americano.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7500.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Adicionales",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Papas fritas",
+            "description": "Deliciosas papas a la francesa, doradas y crujientes.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1150.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Yuca frita",
+            "description": "Deliciosa yuca frita, crujiente por fuera y suave por dentro.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1150.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Arroz blanco",
+            "description": "Clásica porción de arroz blanco para acompañar tus platos.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1150.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Bowl de ensalada",
+            "description": "Porción extra de ensalada servida en bowl, ideal para acompañar tu plato.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1150.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Frijoles tiernos",
+            "description": "Porción de frijoles tiernos, ideal para acompañar tus platos.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1150.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Puré de papa",
+            "description": "Porción de puré de papa, suave y cremoso.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1150.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Vegetales",
+            "description": "Guarnición de vegetales mixtos.",
+            "offers": {
+              "@type": "Offer",
+              "price": "1150.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Postres",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Lemon pie",
+            "description": "Delicioso pie de limón, relleno cremoso con toque cítrico sobre base crujiente.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3450.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Menú de niños",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Deditos de pollo con papas",
+            "description": "Exquisitos deditos de pollo empanizados, acompañados de papas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4050.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Pizza de jamón y queso",
+            "description": "Pizzas: 12 rebanadas.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4050.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mini hamburguesita con papas",
+            "description": "Mini hamburguesas: res-cebolla-tomate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4050.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Entradas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Chifrijo Barbudos",
+            "description": "Tradicional combinación entre arroz blanco, frijoles tiernos, acompañado de nuestro delicioso chicharron, pico de gallo, aguacate y jalapeños.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mozzarella sticks",
+            "description": "Deliciosas barritas de queso mozzarella empanizadas, acompañadas de salsa marina.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5900.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken fingers platter",
+            "description": "Exquisitos deditos de pollo, acompañados de elote, nuestras deliciosas papas gajo con aderezo de mayonesa culantro y mostaza miel.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Quesadillas Barbudos carne mechada",
+            "description": "Tortilla de harina doradita con tu proteína favorita al estilo Barbudos, tocineta y nuestra mezcla de quesos, acompañada de pico de gallo, ensalada y natilla. Mezcla de quesos: mozarella-chedar-americano. Mezcla de quesos: mozarella,chedar,americano.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6750.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Quesadilla de camarones",
+            "description": "Crujiente tortilla de harina, rellena de deliciosos camarones al ajillo, hongos salteados, tocineta, mezcla de quesos y nuestro delicioso aderezo chipotle. Acompañada de pico de gallo y natilla. Mezcla de quesos: mozarella-chedar-americano.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7150.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Camarones empanizados",
+            "description": "Servidos con papas fritas, ensalada de la casa, acompañados de nuestra mayonesa de culantro y salsa chipotle. Ensalada de la casa: receta secreta.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6550.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Papas locas",
+            "description": "Deliciosas papas locas servidas con nuestra carne o pollo mechados, recubiertas de pico de gallo, natilla, salsa de queso cheddar y cebollín.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5850.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Papas fritas",
+            "description": "Con salsa de la casa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "3700.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Nachos carne mechada",
+            "description": "Crujientes tortillas de maíz, cubiertas de frijoles molidos, salsa de queso cheddar, acompañadas de pico de gallo, aceitunas, natilla, maíz dulce y guacamole.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6350.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Nachos mixtos",
+            "description": "Crujientes tortillas de maíz, cubiertas de frijoles molidos, salsa de queso cheddar, acompañadas de pico de gallo, aceitunas, natilla, maíz dulce y guacamole.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6850.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Quesadillas Barbudos mixta",
+            "description": "Tortilla de harina doradita con tu proteína favorita al estilo Barbudos, tocineta y nuestra mezcla de quesos, acompañada de pico de gallo, ensalada y natilla. Mezcla de quesos: mozarella-chedar-americano. Mezcla de quesos: mozarella,chedar,americano.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6850.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Quesadillas Barbudos pollo",
+            "description": "Tortilla de harina doradita con tu proteína favorita al estilo Barbudos, tocineta y nuestra mezcla de quesos, acompañada de pico de gallo, ensalada y natilla. Mezcla de quesos: mozarella-chedar-americano. Mezcla de quesos: mozarella,chedar,americano.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6350.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Nachos pollo",
+            "description": "Crujientes tortillas de maíz, cubiertas de frijoles molidos, salsa de queso cheddar, acompañadas de pico de gallo, aceitunas, natilla, maíz dulce y guacamole.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6050.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Aros de cebolla",
+            "description": "Empanizados al mejor estilo Barbudos, condimentados con especias originales, servidos con nuestra deliciosa salsa bbq.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gajos de papa",
+            "description": "Deliciosas papas gajo con hierbas, acompañadas de nuestra deliciosa salsa de culantro.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fish sticks",
+            "description": "Deliciosos fish fingers, empanizados con nuestra receta original, servidos con elote, papas gajo, salsa de culantro y salsa chipotle.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6850.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Canastas de patacón",
+            "description": "Canastatitas rellenas de ceviche, carne mechada pollo mechado y camarón al ajillo, servidas sobre una cama de frijoles molidos y pico de gallo al lado.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7450.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Alitas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Boneless wings",
+            "description": "Crujientes trocitos de pechuga de pollo ligeramente empanizados y bañados en la salsa de tu elección. Acompañados de zanahoria, varitas de apio y aderezo ranch.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7400.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Chicken wings",
+            "description": "Acompañadas de varitas de apio, zanahoria y aderezo ranch.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6350.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Ceviches",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Ceviche clásico mixto",
+            "description": "Deliciosos trozos de marlín dorado, empapados en jugo de limón, con cebolla morada, culantro, chile dulce, aguacate y chutney de mango y piña, acompañado de chips de plátano verde.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6750.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ceviche clásico clásico",
+            "description": "Deliciosos trozos de marlín dorado, empapados en jugo de limón, con cebolla morada, culantro, chile dulce, aguacate y chutney de mango y piña, acompañado de chips de plátano verde.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6350.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ceviche clásico camarón",
+            "description": "Deliciosos trozos de marlín dorado, empapados en jugo de limón, con cebolla morada, culantro, chile dulce, aguacate y chutney de mango y piña, acompañado de chips de plátano verde.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7250.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Para compartir",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Dúos",
+            "description": "Combinación de dos de nuestros platillos favoritos.",
+            "offers": {
+              "@type": "Offer",
+              "price": "11850.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Trios",
+            "description": "Elegí tres deliciosas entradas y armá tu plato.",
+            "offers": {
+              "@type": "Offer",
+              "price": "16800.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Hamburguesas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Bacon cheese burger",
+            "description": "Torta de carne 100% angus, elaborada con ingredientes premium, con lonjas de tocineta crujientes, queso cheddar, todo entre un pan tostado.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6300.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Barbu burger",
+            "description": "Cubierta con deliciosos hongos, aros de cebolla, queso provolone, queso cheddar, lonjas de tocineta crujientes, sobre un pan tostado y nuestra exclusiva salsa bbq, acompañada de lechuga, tomate, pepinillos.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7400.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Classic burger",
+            "description": "Un cuarto de libra de carne de res fresca, queso americano, lechuga fresca, tomate, pepinillos encurtidos, ketchup, mostaza y cebolla en un delicioso pan challah.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5700.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mini sliders",
+            "description": "Dos mini hamburguesitas jugosas, acompañadas de tocino picado, cebolla y chutney de mango y piña.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6750.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Avocado burger",
+            "description": "Torta de angus sazonada, con queso suizo, tocino, frescas rebanadas de aguacate, lechuga, tomate, pepinillos cebolla morada, bañada en nuestro aderezo de aguacate.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6800.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Quesadilla burger",
+            "description": "Torta de 8onz de carne angus, sazonada, gratinada con nuestros quesos, cheddar y provolone, cubierta con lonjas de tocineta crujiente, montada sobre una cama de pico de gallo, lechuga y aderezo de chile panameño. Todo esto dentro de dos tortillas de harina.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6350.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Sandwiches",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Choripán de la casa",
+            "description": "Probalo con nuestro delicioso chimichurri, servido con pico de gallo y papas a la francesa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Búfalo chicken ranch",
+            "description": "Crujiente pechuga de pollo bañada en salsa buffalo, queso provolone, gratinado, servida con lechuga, tomate, pepinillos y cebolla morada.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6350.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Honey bbq chicken",
+            "description": "Deliciosa pechuga de pollo empanizada bañada con salsa bbq cubierta de queso provolone y tocineta servida sobre un pan tostado con mostaza miel, lechuga, tomate, pepinillos y cebolla morada.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6350.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Sopas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Azteca",
+            "description": "Acompañadas de tiritas de tortilla tostada.",
+            "offers": {
+              "@type": "Offer",
+              "price": "5600.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Mariscos",
+            "description": "Acompañada de arroz.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6300.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Pescado",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Salmón a la parrilla",
+            "description": "Acompañado de puré y vegetales.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7850.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Filete de pescado a la plancha",
+            "description": "Acompañado de puré y vegetales.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6750.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Filete de pescado empanizado",
+            "description": "Acompañado de puré y vegetales.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6750.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Carnes",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Costilla de cerdo tradicional",
+            "description": "Delicioso rack de cerdo bañado en salsa bbq, acompañado de ensalada de la casa, papas de gajo y elote. Ensalada de la casa: receta secreta.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7850.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gordon bleu de pollo",
+            "description": "Deliciosa pechuga de pollo, rellena de jamón ahumado y queso mozzarella envuelto en tocino, acompañado de puré y vegetales, bañado en salsa de hongos.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6875.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fajitas res",
+            "description": "Jugosa carne de res o pollo a la parrilla, sobre una cama de cebollas y pimientos, acompañadas de pico de gallo, frijoles molidos y tortillas de maíz o harina.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7200.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lomito Especial Mar y Tierra",
+            "description": "Delicioso plato que combina lomito de res con selección de mariscos, estilo mar y tierra.",
+            "offers": {
+              "@type": "Offer",
+              "price": "9250.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fajitas mixtas",
+            "description": "Jugosa carne de res o pollo a la parrilla, sobre una cama de cebollas y pimientos, acompañadas de pico de gallo, frijoles molidos y tortillas de maíz o harina.",
+            "offers": {
+              "@type": "Offer",
+              "price": "7500.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Lomito Barbudos",
+            "description": "Delicioso corte de lomito de res al estilo de la casa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "8300.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Fajitas pollo",
+            "description": "Jugosa carne de res o pollo a la parrilla, sobre una cama de cebollas y pimientos, acompañadas de pico de gallo, frijoles molidos y tortillas de maíz o harina.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6350.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Gordon bleu de carne",
+            "description": "Lonjas de carne, rellenas de jamón ahumado y queso mozzarella envuelto en tocino, acompañado de puré y vegetales bañado en salsa de hongos.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6750.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Ensaladas",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Ensalada caesar pollo",
+            "description": "Fresca y crujiente mezcla de lechugas acompañada de pico de gallo, tiritas de tortilla de maíz, queso parmesano, hongos, aceitunas y cebolla morada, aderezo caesar, pollo o camarones a la parrilla. Mezcla de lechugas: crespa y morada. Mezcla de lechugas: crespa y morada.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6000.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ensalada de la casa",
+            "description": "Combinación de lechugas, acompañadas de tomate cherry, zanahoria, cebolla morada, rodajas de pepino y vinagreta de la casa.",
+            "offers": {
+              "@type": "Offer",
+              "price": "4950.00",
+              "priceCurrency": "CRC"
+            }
+          },
+          {
+            "@type": "MenuItem",
+            "name": "Ensalada caesar camarones",
+            "description": "Fresca y crujiente mezcla de lechugas acompañada de pico de gallo, tiritas de tortilla de maíz, queso parmesano, hongos, aceitunas y cebolla morada, aderezo caesar, pollo o camarones a la parrilla. Mezcla de lechugas: crespa y morada. Mezcla de lechugas: crespa y morada.",
+            "offers": {
+              "@type": "Offer",
+              "price": "6450.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "MenuSection",
+        "name": "Litros",
+        "hasMenuItem": [
+          {
+            "@type": "MenuItem",
+            "name": "Litro Chilimaracuyá",
+            "description": "",
+            "offers": {
+              "@type": "Offer",
+              "price": "16500.00",
+              "priceCurrency": "CRC"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
