@@ -1,8 +1,7 @@
 {
-  "fecha_scrape": "2026-04-24",
-  "restaurante": "Barbudos",
-  "instagram": "@barbudosbarcr",
-  "total_imagenes": 8,
-  "posts": [],
-  "promociones_vigentes": []
+  "restaurant": "Barbudos",
+  "username": "barbudosbarcr",
+  "date_scraped": "2026-04-24",
+  "total_images": 7,
+  "url": "https://www.instagram.com/barbudosbarcr/"
 }

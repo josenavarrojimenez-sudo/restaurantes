@@ -1,9 +1,7 @@
 {
-  "fecha_scrape": "2026-04-24",
-  "restaurante": "El Tejano",
-  "instagram": "@eltejanocr",
-  "total_imagenes": 7,
-  "nota": "Uber Eats no disponible (404)",
-  "posts": [],
-  "promociones_vigentes": []
+  "restaurant": "El Tejano",
+  "username": "eltejanocr",
+  "date_scraped": "2026-04-24",
+  "total_images": 7,
+  "url": "https://www.instagram.com/eltejanocr/"
 }
