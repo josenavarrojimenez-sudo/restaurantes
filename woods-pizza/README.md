@@ -10,7 +10,7 @@ Usar SOLO esta carpeta `woods-pizza/` para todo.
 woods-pizza/
 ├── web/
 │   ├── page.html              # Web propia (caroje.com)
-│   └── menu_completo.json     # 128 items, 15 categorias, precios CRC
+│   └── menu_completo.json     # 236 items, 16 categorias (incluye Menú Keto), precios CRC
 ├── uber-eats/
 │   ├── data/page.html         # HTML de Uber Eats
 │   ├── diario/2026-04-24.json # Datos Uber Eats
@@ -38,9 +38,19 @@ producto = indice.get('margarita')
 ```
 
 ## Stats
-- Menu web: 128 items, 15 categorias
+- Menu web: 236 items, 16 categorias (incluye Menú Keto)
 - Uber Eats: 112 productos, 36 imagenes
 - Instagram: 35 imagenes
 - Productos con imagen: 32
 
-## Fecha: 2026-04-24
+## Cambios 2026-05-02
+- Re-scrape completo desde https://woodspizza.caroje.com/common/
+- Agregados 108 items faltantes:
+  - Variantes Woods (signature) en Carpaccios, Ensaladas, Pizzas, Focaccia, Calzone, Panini, Wraps
+  - Categoría completa Menú Keto (21 items: focaccia, antipasto, carpaccios, ensaladas, 11 pizzas keto, postre keto)
+  - Cervezas internacionales (Stella, Hoegaarden, Leffe, Heineken, Corona, etc.)
+  - Cervezas artesanales costarricenses (Calle Cimarrona, Eremita, La Cofradía)
+  - Cocteles especiales (Mojitos, Moscow Mules, Margaritas, Gin & Tonic con 8 sabores)
+  - Shots especiales (Chiliwoods, Pitufo, Deep Ocean, Cherry Mary, etc.)
+
+## Fecha: 2026-05-02

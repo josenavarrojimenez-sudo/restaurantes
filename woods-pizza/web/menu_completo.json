@@ -1,7 +1,7 @@
 {
   "restaurant": "Woods Pizza a la Leña",
-  "source_url": "https://woodspizza.caroje.com",
-  "date_scraped": "2026-04-24",
+  "source_url": "https://woodspizza.caroje.com/common/",
+  "date_scraped": "2026-05-02",
   "categories": [
     {
       "name": "Antipastos",
@@ -50,6 +50,11 @@
           "name": "Rolatín de Salmón Ahumado",
           "description": "4 Rollos rellenos de capocollo, arúgula, mozzarella fresca y chile morrón, con cebolla morada, alcaparras y olivas negras.",
           "price_crc": 16900
+        },
+        {
+          "name": "Woods",
+          "description": "Carne de búfalo, hongos frescos, queso parmigiano y arúgula. Acompañado con 4 slices de focaccia blanca ó rosmarino.",
+          "price_crc": 7900
         }
       ]
     },
@@ -75,6 +80,11 @@
           "name": "César Con Pollo",
           "description": "Lechuga romana, pollo, aderezo César y queso parmigiano.",
           "price_crc": 9800
+        },
+        {
+          "name": "Woods",
+          "description": "Filet de atún, mix de lechugas, hongos frescos, zanahoria y tomate.",
+          "price_crc": 11900
         }
       ]
     },
@@ -215,6 +225,16 @@
           "name": "Spianata",
           "description": "Espárragos frescos, tomate deshidratado y spianata (ligeramente picante)",
           "price_crc": 11100
+        },
+        {
+          "name": "Woods",
+          "description": "Pizza blanca con salmón ahumado, alcaparras, cebolla morada y stracchino.",
+          "price_crc": 13800
+        },
+        {
+          "name": "Greca",
+          "description": "Queso de cabra y espinacas.",
+          "price_crc": 7800
         }
       ]
     },
@@ -255,6 +275,21 @@
           "name": "Woodsticks Pepperoni",
           "description": "Palitos de pan horneado con queso y pepperoni, acompañado de salsa pomodoro de la casa.",
           "price_crc": 4600
+        },
+        {
+          "name": "Woods",
+          "description": "Queso gorgonzola, cebolla morada y albahaca.",
+          "price_crc": 4800
+        },
+        {
+          "name": "Funghi",
+          "description": "Hongos mixtos.",
+          "price_crc": 7200
+        },
+        {
+          "name": "Caprese",
+          "description": "Mozzarella fresca, tomate, albahaca y pesto.",
+          "price_crc": 8800
         }
       ]
     },
@@ -275,6 +310,21 @@
           "name": "Primavera",
           "description": "Vegetales mixtos.",
           "price_crc": 8000
+        },
+        {
+          "name": "Woods",
+          "description": "Zucchini, hongos, chile morrón y olivas.",
+          "price_crc": 7800
+        },
+        {
+          "name": "Caprese",
+          "description": "Mozzarella fresca, tomate en trozos y pesto.",
+          "price_crc": 8800
+        },
+        {
+          "name": "Funghi",
+          "description": "Hongos mixtos.",
+          "price_crc": 9800
         }
       ]
     },
@@ -295,6 +345,36 @@
           "name": "Di Nanne",
           "description": "Lomito, mozzarella, chile mundial, espárragos frescos, salsa demiglace y escabeche de cebolla morada.",
           "price_crc": 12700
+        },
+        {
+          "name": "Woods",
+          "description": "Pan horneado tipo pita, salmón ahumado, stracchino, alcaparras y cebolla morada.",
+          "price_crc": 9800
+        },
+        {
+          "name": "Caprese",
+          "description": "Pan horneado tipo pita, mozzarella fresca, tomate, lechuga, aceitunas kalamata, alcaparras y pesto.",
+          "price_crc": 7800
+        },
+        {
+          "name": "Vegetales",
+          "description": "Pan horneado tipo pita, mozzarella, arúgula, tomate, hongos, chile, cebolla y aceitunas negras.",
+          "price_crc": 7600
+        },
+        {
+          "name": "Prosciutto Crudo",
+          "description": "Pan horneado tipo pita, mozzarella fresca, tomate, prosciutto crudo y pesto.",
+          "price_crc": 10800
+        },
+        {
+          "name": "Prosciutto Cotto",
+          "description": "Pan horneado tipo pita, mozzarella, lechuga, tomate, jamón cocido y hongos.",
+          "price_crc": 10100
+        },
+        {
+          "name": "Romano",
+          "description": "Pan horneado tipo pita, mozzarella, prosciutto cotto, hongos, tomate y espinaca.",
+          "price_crc": 12420
         }
       ]
     },
@@ -320,6 +400,136 @@
           "name": "Mediterráneo",
           "description": "Tortilla horneada casera, hummus de la casa, queso scamorza (ahumado), pollo, chile morrón y aceitunas kalamata",
           "price_crc": 9600
+        },
+        {
+          "name": "Woods",
+          "description": "Tortilla horneada casera, hummus, lechuga, chile, cebolla, hongos y tomate.",
+          "price_crc": 6500
+        },
+        {
+          "name": "Atún",
+          "description": "Tortilla horneada casera, mozzarella, lechuga, tomate, zanahoria, pesto y atún en trozos.",
+          "price_crc": 11700
+        },
+        {
+          "name": "Caprese",
+          "description": "Tortilla horneada casera, mozzarella fresca, tomate y pesto.",
+          "price_crc": 7800
+        },
+        {
+          "name": "Pollo",
+          "description": "Tortilla horneada casera, mozzarella, pollo, lechuga, tomate y pesto.",
+          "price_crc": 9600
+        }
+      ]
+    },
+    {
+      "name": "Menú Keto",
+      "items": [
+        {
+          "name": "Focaccia Keto",
+          "description": "Harina de almendras y queso mozzarella.",
+          "price_crc": 5000
+        },
+        {
+          "name": "Antipasto Woods Keto",
+          "description": "Salami, salame picante, spianata, prosciutto cotto y crudo, capicolo, gorgonzola, grana padana, asiago, scamorza, provolone.",
+          "price_crc": 25200
+        },
+        {
+          "name": "Carpaccio Woods Keto",
+          "description": "Carne de búfalo, hongos, arúgula, queso parmiggiano, vinagreta, sal y pimienta negra. Acompañado con 8 slices de focaccia keto.",
+          "price_crc": 11900
+        },
+        {
+          "name": "Carpaccio Salmón Fresco Keto",
+          "description": "Salmón fresco, alcaparras, cebolla morada, arúgula. Acompañado con focaccia keto.",
+          "price_crc": 12500
+        },
+        {
+          "name": "Carpaccio Salmón Ahumado Keto",
+          "description": "Salmón ahumado, cebolla morada, alcaparras y arúgula. Acompañado con focaccia keto.",
+          "price_crc": 15300
+        },
+        {
+          "name": "Carpaccio Res Keto",
+          "description": "Lomito de res, hongos, arúgula, parmiggiano, vinagreta, sal y pimienta negra. Acompañado con focaccia keto.",
+          "price_crc": 12400
+        },
+        {
+          "name": "Ensalada Woods Keto",
+          "description": "Filet de atún, mix de lechugas, hongos frescos y tomate.",
+          "price_crc": 11900
+        },
+        {
+          "name": "Ensalada Greca Keto",
+          "description": "Mix de lechugas, cebolla morada, aceitunas kalamata, pepino, tomate, queso feta, orégano, balsámico y vinagreta.",
+          "price_crc": 9200
+        },
+        {
+          "name": "Ensalada Verde Keto",
+          "description": "Mix de lechugas, pepino, tomate, cebolla, arúgula, albahaca, balsámico y vinagreta.",
+          "price_crc": 4800
+        },
+        {
+          "name": "Pizza Napoletana Keto",
+          "description": "Base de harina de almendra y mozzarella, salsa pomodoro keto, alcaparras y anchoas.",
+          "price_crc": 12200
+        },
+        {
+          "name": "Pizza Prosciutto Cotto Keto",
+          "description": "Base de harina de almendra y mozzarella, salsa pomodoro keto, jamón cocido.",
+          "price_crc": 13200
+        },
+        {
+          "name": "Pizza Prosciutto Crudo Keto",
+          "description": "Base de harina de almendra y mozzarella, salsa pomodoro keto, prosciutto crudo.",
+          "price_crc": 14600
+        },
+        {
+          "name": "Pizza Margarita Keto",
+          "description": "Base de harina de almendra y mozzarella, salsa pomodoro keto, tomate y albahaca.",
+          "price_crc": 11800
+        },
+        {
+          "name": "Pizza Romana Keto",
+          "description": "Base de harina de almendra y mozzarella, salsa pomodoro keto, jamón cocido y hongos frescos.",
+          "price_crc": 14200
+        },
+        {
+          "name": "Pizza Prosciutto & Parmigiano Keto",
+          "description": "Base de harina de almendra y mozzarella, salsa pomodoro keto, prosciutto crudo, arúgula y parmigiano.",
+          "price_crc": 16900
+        },
+        {
+          "name": "Pizza Cuatro Estaciones Keto",
+          "description": "Base de harina de almendra y mozzarella, salsa pomodoro keto, aceitunas negras, jamón cocido, alcachofas y hongos frescos.",
+          "price_crc": 12600
+        },
+        {
+          "name": "Pizza Pepperoni Keto",
+          "description": "Base de harina de almendra y mozzarella, salsa pomodoro keto, pepperoni.",
+          "price_crc": 12900
+        },
+        {
+          "name": "Pizza Gamberi Keto",
+          "description": "Base de harina de almendra y mozzarella, salsa pomodoro keto, camarones y albahaca.",
+          "price_crc": 13600
+        },
+        {
+          "name": "Pizza Vegetales Keto",
+          "description": "Base de harina de almendra y mozzarella, pomodoro keto, zucchini, berenjena, hongos, cebolla morada, chile morrón y olivas negras.",
+          "price_crc": 12000
+        },
+        {
+          "name": "Pizza Greca Keto",
+          "description": "Base de harina de almendra y mozzarella, salsa pomodoro keto, queso de cabra y espinaca cruda.",
+          "price_crc": 11800
+        },
+        {
+          "name": "Panna Cotta Keto",
+          "description": "Vainilla, con topping de caramelo Keto.",
+          "price_crc": 4200
         }
       ]
     },
@@ -505,6 +715,156 @@
           "name": "Agua San Peregrino",
           "description": "Agua gasificada. 250ml",
           "price_crc": 1800
+        },
+        {
+          "name": "Stella Artois",
+          "description": "Lager, Bélgica. ABV 5.2%",
+          "price_crc": 2500
+        },
+        {
+          "name": "Hoegaarden",
+          "description": "Wheat beer, Bélgica. ABV 4.9%",
+          "price_crc": 3000
+        },
+        {
+          "name": "Leffe Blonde",
+          "description": "Blonde Ale, Bélgica. ABV 6.6%",
+          "price_crc": 3000
+        },
+        {
+          "name": "Leffe Brune",
+          "description": "Ale Oscura, Bélgica. ABV 6.6%",
+          "price_crc": 3000
+        },
+        {
+          "name": "Lindemans Frambuesa",
+          "description": "Frutal, Bélgica. ABV 2.5%",
+          "price_crc": 3500
+        },
+        {
+          "name": "Lindemans Manzana Verde",
+          "description": "Frutal, Bélgica. ABV 3.5%",
+          "price_crc": 3500
+        },
+        {
+          "name": "Lindemans Melocotón",
+          "description": "Frutal, Bélgica. ABV 2.5%",
+          "price_crc": 3500
+        },
+        {
+          "name": "Lindemans Cereza",
+          "description": "Frutal, Bélgica. ABV 3.5%",
+          "price_crc": 3500
+        },
+        {
+          "name": "Carlsberg",
+          "description": "Pilsner, Dinamarca. ABV 5.0%",
+          "price_crc": 2500
+        },
+        {
+          "name": "Pilsner Urquell",
+          "description": "Pilsener, República Checa. ABV 4.4%",
+          "price_crc": 2800
+        },
+        {
+          "name": "Estrella",
+          "description": "Lager, España. ABV 5.4%",
+          "price_crc": 2500
+        },
+        {
+          "name": "Daura",
+          "description": "Lager Libre de Gluten, España. ABV 5.4%",
+          "price_crc": 2500
+        },
+        {
+          "name": "Heineken",
+          "description": "Lager, Holanda. ABV 5%",
+          "price_crc": 2500
+        },
+        {
+          "name": "Blanc 1664",
+          "description": "Lager Frutal, Francia. ABV 5%",
+          "price_crc": 2500
+        },
+        {
+          "name": "Corona",
+          "description": "Pilsener, México. ABV 4.6%",
+          "price_crc": 2500
+        },
+        {
+          "name": "Modelo",
+          "description": "American Pilsner, México. ABV 4.5%",
+          "price_crc": 2500
+        },
+        {
+          "name": "Modelo Oscura",
+          "description": "Vienna Lager, México. ABV 5.3%",
+          "price_crc": 2500
+        },
+        {
+          "name": "Malinche (Calle Cimarrona)",
+          "description": "Belgian Witbier, ABV 5.0%",
+          "price_crc": 3000
+        },
+        {
+          "name": "Botánica de Tamarindo (Calle Cimarrona)",
+          "description": "Saison, ABV 5.5%",
+          "price_crc": 3000
+        },
+        {
+          "name": "Diablito (Calle Cimarrona)",
+          "description": "Indian Pale Ale, ABV 6.3%",
+          "price_crc": 3000
+        },
+        {
+          "name": "Doña Señora (Eremita)",
+          "description": "Wit bier, ABV 4.5%",
+          "price_crc": 3000
+        },
+        {
+          "name": "Anacoreta (Eremita)",
+          "description": "American IPA, ABV 7%",
+          "price_crc": 3000
+        },
+        {
+          "name": "Beduino (Eremita)",
+          "description": "Oatmeal Stout, ABV 6%",
+          "price_crc": 3000
+        },
+        {
+          "name": "Low Cal (Eremita)",
+          "description": "Light Lager, ABV 2.8%",
+          "price_crc": 3000
+        },
+        {
+          "name": "Gandúl (Eremita)",
+          "description": "Lager",
+          "price_crc": 3000
+        },
+        {
+          "name": "San Adora (La Cofradía)",
+          "description": "American Pale Ale, ABV 4.8%",
+          "price_crc": 2800
+        },
+        {
+          "name": "San Ate (La Cofradía)",
+          "description": "Robust Porter, ABV 5.5%",
+          "price_crc": 2800
+        },
+        {
+          "name": "San Pamela (La Cofradía)",
+          "description": "American Indian Pale Ale, ABV 6.4%",
+          "price_crc": 2800
+        },
+        {
+          "name": "Saison Mandarina (La Cofradía)",
+          "description": "Belgium Saison, ABV 6.0%",
+          "price_crc": 2800
+        },
+        {
+          "name": "Wild Berries (La Cofradía)",
+          "description": "American Wheat Beer, ABV 4.7%",
+          "price_crc": 2800
         }
       ]
     },
@@ -575,6 +935,16 @@
           "name": "Emilio Moro",
           "description": "Tinto Fino, Ribera del Duero, España",
           "price_crc": 32000
+        },
+        {
+          "name": "Cono Sur Tocornal Cabernet Sauvignon Botella",
+          "description": "Cabernet Sauvignon, Valle Central, Chile",
+          "price_crc": 12000
+        },
+        {
+          "name": "Familia Schroeder Saurus Merlot Botella",
+          "description": "Merlot, Neuquén (Patagonia) Argentina",
+          "price_crc": 15400
         }
       ]
     },
@@ -640,6 +1010,111 @@
           "name": "Negroni Clásico",
           "description": "",
           "price_crc": 4500
+        },
+        {
+          "name": "Mojito Limón",
+          "description": "Mojito clásico",
+          "price_crc": 4500
+        },
+        {
+          "name": "Mojito Fresa",
+          "description": "",
+          "price_crc": 4500
+        },
+        {
+          "name": "Mojito Maracuyá",
+          "description": "",
+          "price_crc": 4500
+        },
+        {
+          "name": "Moscow Mule Mezcal",
+          "description": "",
+          "price_crc": 4500
+        },
+        {
+          "name": "Moscow Mule Vodka",
+          "description": "",
+          "price_crc": 4500
+        },
+        {
+          "name": "Moscow Mule Ginebra",
+          "description": "",
+          "price_crc": 4500
+        },
+        {
+          "name": "Moscow Mule Ron",
+          "description": "",
+          "price_crc": 4500
+        },
+        {
+          "name": "Moscow Mule Tequila",
+          "description": "",
+          "price_crc": 4500
+        },
+        {
+          "name": "Moscow Mule Whiskey",
+          "description": "",
+          "price_crc": 4500
+        },
+        {
+          "name": "Margarita Tradicional de Limón",
+          "description": "",
+          "price_crc": 4000
+        },
+        {
+          "name": "Margarita de Maracuyá & Piña",
+          "description": "",
+          "price_crc": 4000
+        },
+        {
+          "name": "Margarita de Berries & Jalapeño",
+          "description": "",
+          "price_crc": 4000
+        },
+        {
+          "name": "Paloma",
+          "description": "Toronja, limón y tajín",
+          "price_crc": 4000
+        },
+        {
+          "name": "Gin & Tonic Frutos Verdes",
+          "description": "",
+          "price_crc": 4000
+        },
+        {
+          "name": "Gin & Tonic Frutos Rojos",
+          "description": "",
+          "price_crc": 4000
+        },
+        {
+          "name": "Gin & Tonic BlueBerry",
+          "description": "",
+          "price_crc": 4000
+        },
+        {
+          "name": "Gin & Tonic Fresa Limón",
+          "description": "",
+          "price_crc": 4000
+        },
+        {
+          "name": "Gin & Tonic Mediterráneo",
+          "description": "",
+          "price_crc": 4000
+        },
+        {
+          "name": "Gin & Tonic Maracuyá Salvia",
+          "description": "",
+          "price_crc": 4000
+        },
+        {
+          "name": "Gin & Tonic Mango Fresa",
+          "description": "",
+          "price_crc": 4000
+        },
+        {
+          "name": "Gin & Tonic Pepino Limón",
+          "description": "",
+          "price_crc": 4000
         }
       ]
     },
@@ -715,9 +1190,79 @@
           "name": "Ron Appleton shot",
           "description": "",
           "price_crc": 2500
+        },
+        {
+          "name": "Mezcal Noble Coyote shot",
+          "description": "",
+          "price_crc": 2750
+        },
+        {
+          "name": "José Cuervo shot",
+          "description": "",
+          "price_crc": 2500
+        },
+        {
+          "name": "Don Julio shot",
+          "description": "",
+          "price_crc": 3850
+        },
+        {
+          "name": "Chiliwoods",
+          "description": "Chiliguaro especial de La Casa",
+          "price_crc": 2500
+        },
+        {
+          "name": "Pitufo",
+          "description": "Hpnotiq y Jagermeister",
+          "price_crc": 2500
+        },
+        {
+          "name": "Deep Ocean",
+          "description": "Blue Curacao, Hpnotiq y Ron Blanco",
+          "price_crc": 2500
+        },
+        {
+          "name": "Cherry Mary",
+          "description": "Whiskey de Canela, Fresa y Cítricos",
+          "price_crc": 2500
+        },
+        {
+          "name": "Pain Killer",
+          "description": "Amaretto, Baileys, Granadina y Blue Curacao",
+          "price_crc": 2500
+        },
+        {
+          "name": "Blow Job",
+          "description": "Amaretto, Crema Irlandesa y Crema Chantilli",
+          "price_crc": 2500
+        },
+        {
+          "name": "Plasma Shot",
+          "description": "Ron, Blue Curacao, Anís y Crema Irlandesa",
+          "price_crc": 2500
+        },
+        {
+          "name": "Gummy Shot",
+          "description": "Licor de Melón, Ron de Coco, Cítricos y Gummies",
+          "price_crc": 2500
+        },
+        {
+          "name": "Oaxaca Shot",
+          "description": "Tequila, Tajín, Cítricos, Maracuyá y Angostura de Naranja",
+          "price_crc": 2500
+        },
+        {
+          "name": "Bosque Cremoso",
+          "description": "Licor de Menta, Crema Irlandesa, Jagermeister y Crema Chantilli",
+          "price_crc": 2500
+        },
+        {
+          "name": "Strawberry Chocolate Blow Job",
+          "description": "Granadina, Licor de Chocolate, Crema Irlandesa, Chantilli y Fresa",
+          "price_crc": 2500
         }
       ]
     }
   ],
-  "total_items": 128
+  "total_items": 236
 }
